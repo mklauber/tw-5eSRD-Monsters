@@ -1,0 +1,31 @@
+="": 
+ac: 13
+ac_description: natural armor
+alignment: chaotic evil
+attacks: <i><b>Multiattack:</b></i> The lamia makes two attacks: one with its claws and one with its dagger or Intoxicating Touch.<br><br><i><b>Claws:</b> Melee Weapon Attack:</i> +5 to hit, reach 5 ft., one target. <i>Hit:</i> 14 (2d10+3) slashing damage.<br><br><i><b>Dagger:</b> Melee Weapon Attack:</i> +5 to hit, reach 5 ft., one target. <i>Hit:</i> 5 (1d4+3) piercing damage.<br><br><i><b>Intoxicating Touch:</b> Melee Spell Attack:</i> +5 to hit, reach 5 ft., one creature. <i>Hit:</i> The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.
+cha: 16
+challenge_rating: 4
+con: 15
+condition_immunities: 
+created: 20181223151326830
+creature_type: monstrosity
+damage_immunities: 
+damage_resistances: 
+dex: 13
+features: <i><b>Innate Spellcasting:</b></i> The lamia's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components.<br><br>At will: <i>[[Disguise Self]] (any humanoid form), Mjor Image]]</i><br>3/day each: <i>[[Charm Person]], [[Mirror Image]], [[Scrying]], [[Suggestion]]</i><br>1/day each: <i>[[Geas]]</i>
+hp: 97
+hp_generation: 13d10+26
+int: 14
+languages: Abyssal, Common
+modified: 20190107170202065
+saving_throws: 
+senses: Darkvision 60 ft., PP 12
+size: Large 
+skills: Deception +7, Insight +4, Stealth +3
+speed: 30 ft.
+str: 16
+title: Lamia
+type: Creature
+wis: 15
+xp: 1100
+

@@ -1,0 +1,31 @@
+="": 
+ac: 17
+ac_description: natural armor
+alignment: any evil alignment
+attacks: <i><b>Paralyzing Touch:</b> Melee Spell Attack:</i> +12 to hit, reach 5 ft., one creature. <i>Hit:</i> 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+cha: 16
+challenge_rating: 21
+con: 16
+condition_immunities: charmed, exhaustion, frightened, paralyzed, poisoned
+created: 20181216154631900
+creature_type: undead
+damage_immunities: poison, bludgeoning, piercing, and slashing from nonmagical weapons
+damage_resistances: cold, lightning, necrotic
+dex: 16
+features: <i><b>Legendary Resistance (3/Day):</b></i> If the lich fails a saving throw, it can choose to succeed instead.<br><br><i><b>Rejuvenation:</b></i> If it has a phylactery, a destroyed lich gains a new body in 1d10 days, regaining all its hit points and becoming active again. The new body appears within 5 feet of the phylactery.<br><br><i><b>Turn Resistance:</b></i> The lich has advantage on saving throws against any effect that turns undead.<p><i><b>Spellcasting:</b></i> The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the foll owing wizard spells prepared:<br><br>Cantrips (at will): <i>[[Mage Hand]], [[Prestidigitation]], [[Ray of Frost]]</i><br>1st level (4 slots): <i>[[Detect Magic]], [[Magic Missile]], [[Shield]], [[Thunderwave]]</i><br>2nd level 3 slots): <i>[[Detect Thoughts]], [[Invisibility]], [[Melf's Acid Arrow]], [[Mirror Image]]</i><br>3rd level (3 slots): <i>[[Animate Dead]], [[Counterspell]], [[Dispel Magic]], [[Fireball]]</i><br>4th level (3 slots): <i>[[Blight]], [[Dimension Door]]</i><br>5th level (3 slots): <i>[[Cloudkill]], [[Scrying]]</i><br>6th level (1 slot): <i>[[Disintegrate]], [[Globe of Invulnerability]]</i><br>7th level (1 slot): <i>[[Finger of Death]], [[Plane Shift]]</i><br>8th level (1 slot): <i>[[Dominate Monster]], [[Power Word Stun]]</i><br>9th level (1 slot): <i>[[Power Word Kill]]</i></p>
+hp: 135
+hp_generation: 18d8+54
+int: 20
+languages: Common plus up to five other languages
+modified: 20190109190127383
+saving_throws: Con +10, Int +12, Wis +9
+senses: Truesight 120 ft., PP 19
+size: Medium 
+skills: Arcana +18, History +12, Insight +9, Perception +9
+speed: 30 ft.
+str: 11
+title: Lich
+type: Creature
+wis: 14
+xp: 33000
+

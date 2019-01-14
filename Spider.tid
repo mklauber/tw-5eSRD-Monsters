@@ -1,0 +1,31 @@
+="": 
+ac: 12
+ac_description: 
+alignment: unaligned
+attacks: <i><b>Bite:</b> Melee Weapon Attack:</i> +4 to hit, reach 5 ft., one creature. <i>Hit:</i> 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage.
+cha: 2
+challenge_rating: 0
+con: 8
+condition_immunities: 
+created: 20181223151326840
+creature_type: beast
+damage_immunities: 
+damage_resistances: 
+dex: 14
+features: <i><b>Spider Climb:</b></i> The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.<br><br><i><b>Web Sense:</b></i> While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.<br><br><i><b>Web Walker:</b></i> The spider ignores movement restrictions caused by webbing.
+hp: 1
+hp_generation: 1d4-1
+int: 1
+languages: ---
+modified: 20181223151326840
+saving_throws: Stealth +4
+senses: Darkvision 30 ft., PP 10
+size: Tiny 
+skills: 
+speed: 20 ft., climb 20 ft.
+str: 2
+title: Spider
+type: Creature
+wis: 10
+xp: 10
+

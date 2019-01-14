@@ -1,0 +1,31 @@
+="": 
+ac: 17
+ac_description: natural armor
+alignment: lawful evil
+attacks: <i><b>Multiattack:</b></i> The efreeti makes two scimitar attacks or uses its Hurl Flame twice.<br><br><i><b>Scimitar:</b> Melee Weapon Attack:</i> +10 to hit, reach 5 ft., one target. <i>Hit:</i> 13 (2d6+6) slashing damage plus 7 (2d6) fire damage.<br><br><i><b>Hurl Flame:</b> Ranged Spell Attack:</i> +7 to hit, range 120 ft., one target. <i>Hit:</i> 17 (5d6) fire damage.
+cha: 16
+challenge_rating: 11
+con: 24
+condition_immunities: 
+created: 20181223151326824
+creature_type: elemental
+damage_immunities: Fire
+damage_resistances: 
+dex: 12
+features: <i><b>Elemental Demise:</b></i> If the efreeti dies, its body disintegrates in a flash of fire and puff of smoke, leaving behind only equipment the efreeti was wearing or carrying.<br><br><i><b>Innate Spellcasting:</b></i> The efreeti's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components:<br><br>At will: <i>[[Detect Magic]]</i><br>3/day: <i>[[Enlarge/Reduce]], [[Tongues]]</i><br>1/day each: <i>[[Conjure Elemental]] (fire elemental only), [[Gaseous Form]], [[Invisibility]], [[Major Image]], [[Plane Shift]], [[Wall of Fire]]</i>
+hp: 200
+hp_generation: 16d10+112
+int: 16
+languages: Ignan
+modified: 20190109135958762
+saving_throws: Int +7, Wis +6, Cha +7
+senses: Darkvision 120 ft., PP 12
+size: Large 
+skills: 
+speed: 40 ft., fly 60 ft.
+str: 22
+title: Efreeti
+type: Creature
+wis: 15
+xp: 7200
+

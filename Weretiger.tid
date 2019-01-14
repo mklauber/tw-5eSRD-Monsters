@@ -1,0 +1,32 @@
+="": 
+ac: 12
+ac_description: 
+alignment: neutral
+attacks: <i><b>Multiattack (Humanoid or Hybrid Form Only):</b></i> In humanoid form, the weretiger makes two scimitar attacks or two longbow attacks. In hybrid form, it can attack like a humanoid or make two claw attacks.<br><br><i><b>Bite (Tiger or Hybrid Form Only):</b> Melee Weapon Attack:</i> +5 to hit, reach 5 ft., one target. <i>Hit:</i> 8 (1d10+3) piercing damage. If the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with weretiger lycanthropy.<br><br><i><b>Claw (Tiger or Hybrid Form Only):</b> Melee Weapon Attack:</i> +5 to hit, reach 5 ft., one target. <i>Hit:</i> 7 (1d8+3) slashing damage.<br><br><i><b>Scimitar (Humanoid or Hybrid Form Only):</b> Melee Weapon Attack:</i> +5 to hit, reach 5 ft., one target. <i>Hit:</i> 6 (1d6+3) slashing damage.<br><br><i><b>Longbow (Humanoid or Hybrid Form Only):</b> Ranged Weapon Attack:</i> +4 to hit, range 150/600 ft., one target. <i>Hit:</i> 6 (1d8+2) piercing damage.
+cha: 11
+challenge_rating: 4
+con: 16
+condition_immunities: 
+created: 20181223151507335
+creature_type: humanoid 
+damage_immunities: bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered
+damage_resistances: 
+dex: 15
+features: <i><b>Shapechanger:</b></i> The weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying·isn't transformed. It reverts to its true form if it dies.<br><br><i><b>Keen Hearing and Smell:</b></i> The weretiger has advantage on Wisdom (Perception) checks that rely on hearing or smell.<br><br><i><b>Pounce (Tiger or Hybrid Form Only):</b></i> If the weretiger moves at least 15 feet straight toward a creature and then hits it with claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the weretiger can make one bite attack against it as a bonus action.
+hp: 120
+hp_generation: 16d8+48
+int: 10
+languages: Common (can't speak in tiger form)
+modified: 20181223151507335
+saving_throws: 
+senses: Darkvision 60 ft., PP 15
+size: Medium 
+skills: Perception +5, Stealth +4
+speed: 30 ft. (40 ft. in tiger form)
+str: 17
+subtype: human, shapechanger
+title: Weretiger
+type: Creature
+wis: 13
+xp: 1100
+

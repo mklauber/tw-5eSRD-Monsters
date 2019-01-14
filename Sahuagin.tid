@@ -1,0 +1,32 @@
+="": 
+ac: 12
+ac_description: natural armor
+alignment: lawful evil
+attacks: <i><b>Multiattack:</b></i> The sahuagin makes two melee attacks: one with its bite and one with its claws or spear.<br><br><i><b>Bite:</b> Melee Weapon Attack:</i> +3 to hit, reach 5 ft., one target. <i>Hit:</i> 3 (1d4+1) piercing damage.<br><br><i><b>Claws:</b> Melee Weapon Attack:</i> +3 to hit, reach 5 ft., one target. <i>Hit:</i> 3 (1d4+1) slashing damage.<br><br><i><b>Spear:</b> Melee or Ranged Weapon Attack:</i> +3 to hit, reach 5 ft. or range 20/60 ft., one target. <i>Hit:</i> 4 (1d6+1) piercing damage, or 5 (1d8+1) piercing damage if used with two hands to make a melee attack.
+cha: 9
+challenge_rating: 1/2
+con: 12
+condition_immunities: 
+created: 20181223151507331
+creature_type: humanoid 
+damage_immunities: 
+damage_resistances: 
+dex: 11
+features: <i><b>Blood Frenzy:</b></i> The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.<br><br><i><b>Limited Amphibiousness:</b></i> The sahuagin can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.<br><br><i><b>Shark Telepathy:</b></i> The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.
+hp: 22
+hp_generation: 4d8+4
+int: 12
+languages: Sahuagin
+modified: 20181223151507331
+saving_throws: 
+senses: Darkvision 120 ft., PP 15
+size: Medium 
+skills: Perception +5
+speed: 30 ft., swim 40 ft.
+str: 13
+subtype: sahuagin
+title: Sahuagin
+type: Creature
+wis: 13
+xp: 100
+

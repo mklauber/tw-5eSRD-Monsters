@@ -1,0 +1,31 @@
+="": 
+ac: 18
+ac_description: natural armor
+alignment: lawful good
+attacks: <i><b>Multiattack:</b></i> The dragon makes three attacks: one with its bite and two with its claws.<br><br><i><b>Bite:</b> Melee Weapon Attack:</i> +10 to hit, reach 10 ft., one target. <i>Hit:</i> 17 (2d10+6) piercing damage.<br><br><i><b>Claw:</b> Melee Weapon Attack:</i> +10 to hit, reach 5 ft., one target. <i>Hit:</i> 13 (2d6+6) slashing damage.<br><br><i><b>Breath Weapon (Recharge 5-6):</b></i> The dragon uses one of the following breath weapons:<br><br><i><b>Fire Breath:</b></i> The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one.<br><i><b>Weakening Breath:</b></i> The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+cha: 20
+challenge_rating: 10
+con: 21
+condition_immunities: 
+created: 20181223151326844
+creature_type: dragon
+damage_immunities: fire
+damage_resistances: 
+dex: 14
+features: <i><b>Amphibious:</b></i> The dragon can breathe air and water.
+hp: 178
+hp_generation: 17d10+85
+int: 16
+languages: Common, Draconic
+modified: 20181223151326844
+saving_throws: Dex +6, Con +9, Wis +5, Cha +9
+senses: Blindsight 30 ft., Darkvision 120 ft., PP 19
+size: Large 
+skills: Insight +5, Perception +9, Persuasion +9, Stealth +6
+speed: 40 ft., fly 80 ft., swim 40 ft.
+str: 23
+title: Young Gold Dragon
+type: Creature
+wis: 13
+xp: 5900
+

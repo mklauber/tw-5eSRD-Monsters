@@ -1,0 +1,31 @@
+="": 
+ac: 14
+ac_description: natural armor
+alignment: neutral good (50%) or neutral evil (50%)
+attacks: <i><b>Multiattack:</b></i> The giant makes two morningstar attacks.<br><br><i><b>Morningstar:</b> Melee Weapon Attack:</i> +12 to hit, reach 10 ft., one target. <i>Hit:</i> 21 (3d8+8) piercing damage.<br><br><i><b>Rock:</b> Ranged Weapon Attack:</i> +12 to hit, range 60/240 ft., one target. <i>Hit:</i> 30 (4d10+8) bludgeoning damage.
+cha: 16
+challenge_rating: 9
+con: 22
+condition_immunities: 
+created: 20181223151326822
+creature_type: giant
+damage_immunities: 
+damage_resistances: 
+dex: 10
+features: <i><b>Keen Smell:</b></i> The giant has advantage on Wisdom (Perception) checks that rely on smell.<br><br><i><b>Innate Spellcasting:</b></i> The giant's spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:<br><br>At will: <i>[[Detect Magic]], [[Fog Cloud]], [[Light]]</i><br>3/day each: <i>[[Feather Fall]], [[Fly]], [[Misty Step]], [[Telekinesis]]</i><br>1/day each: <i>[[Control Weather]], [[Gaseous Form]]</i>
+hp: 200
+hp_generation: 16d12+96
+int: 12
+languages: Common, Giant
+modified: 20190108184927661
+saving_throws: Con +9, Wis +7, Cha +7
+senses: PP 17
+size: Huge 
+skills: Insight +7, Perception +7
+speed: 40 ft.
+str: 27
+title: Cloud Giant
+type: Creature
+wis: 16
+xp: 5000
+

@@ -1,0 +1,31 @@
+="": 
+ac: 10
+ac_description: 
+alignment: unaligned
+attacks: <i><b>Hooves:</b> Melee Weapon Attack</i> +2 to hit, reach 5 ft., one target. <i>Hit:</i> 4 (1d4+2) bludgeoning damage.
+cha: 5
+challenge_rating: 1/8
+con: 13
+condition_immunities: 
+created: 20181223151326831
+creature_type: beast
+damage_immunities: 
+damage_resistances: 
+dex: 10
+features: <i><b>Beast of Burden:</b></i> The mule is considered to be a Large animal for the purpose of determining its carrying capacity.<br><br><i><b>Sure-Footed:</b></i> The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
+hp: 11
+hp_generation: 2d8+2
+int: 2
+languages: ---
+modified: 20181223151326831
+saving_throws: 
+senses: PP 10
+size: Medium 
+skills: 
+speed: 40 ft.
+str: 14
+title: Mule
+type: Creature
+wis: 10
+xp: 25
+

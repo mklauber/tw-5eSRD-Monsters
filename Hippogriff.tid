@@ -1,0 +1,31 @@
+="": 
+ac: 11
+ac_description: 
+alignment: unaligned
+attacks: <i><b>Multiattack:</b></i> The hippogriff makes two attacks: one with its beak and one with its claws.<br><br><i><b>Beak:</b> Melee Weapon Attack:</i> +5 to hit, reach 5 ft., one target. <i>Hit:</i> 8 (1d10+3) piercing damage.<br><br><i><b>Claws:</b> Melee Weapon Attack:</i> +5 to hit, reach 5 ft., one target. <i>Hit:</i> 10 (2d6+3) slashing damage.
+cha: 8
+challenge_rating: 1
+con: 13
+condition_immunities: 
+created: 20181223151326829
+creature_type: monstrosity
+damage_immunities: 
+damage_resistances: 
+dex: 13
+features: <i><b>Keen Sight:</b></i> The hippogriff has advantage an Wisdom (Perception) checks that rely on sight.
+hp: 19
+hp_generation: 3d10+3
+int: 2
+languages: ---
+modified: 20181223151326829
+saving_throws: 
+senses: PP 15
+size: Large 
+skills: Perception +5
+speed: 40 ft., fly 60 ft.
+str: 17
+title: Hippogriff
+type: Creature
+wis: 12
+xp: 200
+

@@ -1,0 +1,32 @@
+="": 
+ac: 12
+ac_description: 15 w. mage armor
+alignment: any alignment
+attacks: <i><b>Dagger:</b> Melee or Ranged Weapon Attack:</i> +5 to hit, reach 5 ft. or range 20/60 ft., one target. <i>Hit:</i> 4 (1d4+2) piercing damage.
+cha: 11
+challenge_rating: 6
+con: 11
+condition_immunities: 
+created: 20181223151507325
+creature_type: humanoid 
+damage_immunities: 
+damage_resistances: 
+dex: 14
+features: <i><b>Spellcasting:</b></i> The mage is an 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:<br><br>Cantrips (at will): <i>[[Fire Bolt]], [[Light]], [[Mage Hand]], [[Prestidigitation]]</i><br>1st level (4 slots): <i>[[Detect Magic]], [[Mage Armor]], [[Magic Missile]], [[Shield]]</i><br>2nd level (3 slots): <i>[[Misty Step]], [[Suggestion]]</i><br>3rd level (3 slots): <i>[[Counterspell]], [[Fireball]], [[Fly]]</i><br>4th level (3 slots): <i>[[Greater Invisibility]], [[Ice Storm]]</i><br>5th level (1 slots): <i>[[Cone of Cold]]</i>
+hp: 40
+hp_generation: 9d8
+int: 17
+languages: any four language
+modified: 20190107190206440
+saving_throws: Int +6, Wis +4
+senses: PP 11
+size: Medium 
+skills: Arcana +6, History +6
+speed: 30 ft.
+str: 9
+subtype: any race
+title: Mage
+type: Creature
+wis: 12
+xp: 2300
+

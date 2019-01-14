@@ -1,0 +1,32 @@
+="": 
+ac: 12
+ac_description: 
+alignment: lawful evil
+attacks: <i><b>Multiattack (Humanoid or Hybrid Form Only):</b></i> The wererat makes two attacks, only one of which can be a bite.<br><br><i><b>Bite (Rat or Hybrid Form Only):</b> Melee Weapon Attack:</i> +4 to hit, reach 5 ft., one target. <i>Hit:</i> 4 (1d4+2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with were rat lycanthropy.<br><br><i><b>Shortsword (Humanoid or Hybrid Form Only):</b> Melee Weapon Attack:</i> +4 to hit, reach 5 ft., one target. <i>Hit:</i> 5 (1d6+2) piercing damage.<br><br><i><b>Hand Crossbow (Humanoid or Hybrid Form Only):</b> Ranged Weapon Attack:</i> +4 to hit, range 30/120 ft., one target. <i>Hit:</i> 5 (1d6+2) piercing damage.
+cha: 8
+challenge_rating: 2
+con: 12
+condition_immunities: 
+created: 20181223151507334
+creature_type: humanoid 
+damage_immunities: bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered
+damage_resistances: 
+dex: 15
+features: <i><b>Shapechanger:</b></i> The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying·isn't transformed. It reverts to its true form if it dies.<br><br><i><b>Keen Smell:</b></i> The wererat has advantage on Wisdom (Perception) checks that rely on smell.
+hp: 33
+hp_generation: 6d8+6
+int: 11
+languages: Common (can't speak in rat form)
+modified: 20181223151507335
+saving_throws: 
+senses: Darkvision 60 ft. (rat form only), PP 12
+size: Medium 
+skills: Perception +2, Stealth +4
+speed: 30 ft.
+str: 10
+subtype: human, shapechanger
+title: Wererat
+type: Creature
+wis: 10
+xp: 450
+

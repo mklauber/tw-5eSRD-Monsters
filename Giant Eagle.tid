@@ -1,0 +1,31 @@
+="": 
+ac: 13
+ac_description: 
+alignment: unaligned
+attacks: <i><b>Multiattack:</b></i> The eagle makes two attacks: one with its beak and one with its talons.<br><br><i><b>Beak:</b> Melee Weapon Attack:</i> +5 to hit, reach 5 ft., one target. <i>Hit:</i> 6 (1d6+3) piercing damage.<br><br><i><b>Talons:</b> Melee Weapon Attack:</i> +5 to hit, reach 5 ft., one target. <i>Hit:</i> 10 (2d6+3) slashing damage.
+cha: 10
+challenge_rating: 1
+con: 13
+condition_immunities: 
+created: 20181223151326826
+creature_type: beast
+damage_immunities: 
+damage_resistances: 
+dex: 17
+features: <i><b>Keen Sight:</b></i> The eagle has advantage on Wisdom (Perception) checks that rely on sight.
+hp: 26
+hp_generation: 4d10+4
+int: 8
+languages: Giant Eagle understands Common and Auran but can't speak them
+modified: 20181223151326827
+saving_throws: 
+senses: PP 14
+size: Large 
+skills: Perception +4
+speed: 10 ft., fly 80 ft.
+str: 16
+title: Giant Eagle
+type: Creature
+wis: 14
+xp: 200
+

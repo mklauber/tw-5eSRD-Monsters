@@ -1,0 +1,31 @@
+="": 
+ac: 13
+ac_description: 
+alignment: unaligned
+attacks: <i><b>Bite:</b> Melee Weapon Attack:</i> +5 to hit, reach 5 ft., one target. <i>Hit:</i> 1 piercing damage.
+cha: 2
+challenge_rating: 0
+con: 9
+condition_immunities: 
+created: 20181223151326837
+creature_type: beast
+damage_immunities: 
+damage_resistances: 
+dex: 16
+features: <i><b>Blood Frenzy:</b></i> The quipper has advantage on melee attack rolls against any creature that doesn't have all its hit points.<br><br><i><b>Water Breathing:</b></i> The quipper can breathe only underwater.
+hp: 1
+hp_generation: 1d4-1
+int: 1
+languages: ---
+modified: 20181223151326837
+saving_throws: 
+senses: darkvision 60 ft.,
+size: Tiny 
+skills: 
+speed: 0 ft., swim 40 ft.
+str: 2
+title: Quipper
+type: Creature
+wis: 7
+xp: 10
+

@@ -1,0 +1,31 @@
+="": 
+ac: 14
+ac_description: natural armor
+alignment: chaotic evil
+attacks: <i><b>Multiattack:</b></i> The chimera makes three attacks: one with its bite, one with its horns, and one with its claws. When its fire breath is available, it can use the breath in place of its bite or horns.<br><br><i><b>Bite:</b> Melee Weapon Attack:</i> +7 to hit, reach 5 ft., one target. <i>Hit:</i> 11 (2d6+4) piercing damage.<br><br><i><b>Horns:</b> Melee Weapon Attack:</i> +7 to hit, reach 5 ft., one target. <i>Hit:</i> 10 (1d12+4) bludgeoning damage.<br><br><i><b>Claws:</b> Melee Weapon Attack:</i> +7 to hit, reach 5 ft., one target. <i>Hit:</i> 11 (2d6+4) slashing damage.<br><br><i><b>Fire Breath (Recharge 5-6):</b></i> The dragon head exhales fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 31 (7d8) fire damage on a failed save, or half as much damage on a successful one.
+cha: 10
+challenge_rating: 6
+con: 19
+condition_immunities: 
+created: 20181223151326821
+creature_type: monstrosity
+damage_immunities: 
+damage_resistances: 
+dex: 11
+features: 
+hp: 114
+hp_generation: 12d10+48
+int: 3
+languages: understands Draconic but can't speak
+modified: 20181223151326821
+saving_throws: 
+senses: Darkvision 60 ft., PP 18
+size: Large 
+skills: Perception +8
+speed: 30 ft., fly 60 ft.
+str: 19
+title: Chimera
+type: Creature
+wis: 14
+xp: 2300
+

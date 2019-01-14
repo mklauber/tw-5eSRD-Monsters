@@ -1,0 +1,32 @@
+="": 
+ac: 12
+ac_description: 15 w. mage armor
+alignment: any alignment
+attacks: <i><b>Dagger:</b> Melee or Ranged Weapon Attack:</i> +6 to hit, reach 5 ft. or range 20/60 ft., one target. <i>Hit:</i> 4 (1d4+2) piercing damage.
+cha: 16
+challenge_rating: 12
+con: 12
+condition_immunities: 
+created: 20181223151507312
+creature_type: humanoid 
+damage_immunities: 
+damage_resistances: damage from spells, nonmagical bludgeoning, piercing, and slashing (from <i>stoneskin</i>)
+dex: 14
+features: <i><b>Magic Resistance:</b></i> The archmage has advantage on saving throws against spells and other magical effects.<p><i><b>Spellcasting:</b></i> The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast disguise self and invisibility at will and has the following wizard spells prepared:<br><br>Cantrips (at will): <i>[[Fire Bolt]], [[Light]], [[Mage Hand]], [[Prestidigitation]], [[Shocking Grasp]]</i><br>1st level (4 slots): <i>[[Detect Magic]], [[Identify]], [[Mage Armor]]*, [[Magic Missile]]</i><br>2nd level (3 slots): <i>[[Detect Thoughts]], [[Mirror Image]], [[Misty Step]]</i><br>3rd level (3 slots): <i>[[Counterspell]], [[Fly]], [[Lightning Bolt]]</i><br>4th level (3 slots): <i>[[Banishment]], [[Fire Shield]], [[Stoneskin]]*</i><br>5th level (3 slots): <i>[[Cone of Cold]], [[Scrying]], [[Wall of Force]]</i><br>6th level (1 slot): <i>[[Globe of Invulnerability]]</i><br>7th level (1 slot): <i>[[Teleport]]</i><br>8th level (1 slot): <i>[[Mind Blank]]*</i><br>9th level (1 slot): <i>[[Time Stop]]</i><br>* The archmage casts these spells on itself before combat.</p>
+hp: 99
+hp_generation: 18d8+18
+int: 20
+languages: any six language
+modified: 20190109185814369
+saving_throws: Int +9, Wis +6
+senses: PP 12
+size: Medium 
+skills: Arcana +13, History +13
+speed: 30 ft.
+str: 10
+subtype: any race
+title: Archmage
+type: Creature
+wis: 15
+xp: 8400
+
