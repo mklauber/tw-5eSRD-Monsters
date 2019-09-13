@@ -1,7 +1,10 @@
 {
-  "title": "$:/plugins/D&DTools/Monsters",
+  "title": "$:/plugins/D&DTools/Creatures",
   "author": "Matt Lauber",
-  "description": "D&D 5e SRD Monsters",
+  "description": "D&D 5e SRD Creatures",
   "plugin-type": "plugin",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "tags": "[[D&D]]",
+  "summary": "D&D 5e SRD Creatures"
+
 }
