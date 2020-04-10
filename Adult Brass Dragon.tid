@@ -1,4 +1,4 @@
-="": 
+ 
 ac: 18
 ac_description: natural armor
 alignment: chaotic good
@@ -6,11 +6,11 @@ attacks: <i><b>Multiattack:</b></i> The dragon can use its Frightful Presence. I
 cha: 17
 challenge_rating: 13
 con: 21
-condition_immunities: 
+condition_immunities:
 created: 20181223151326817
 creature_type: dragon
 damage_immunities: fire
-damage_resistances: 
+damage_resistances:
 dex: 10
 features: <i><b>Legendary Resistance (3/Day):</b></i> If the dragon fails a saving throw, it can choose to succeed instead.
 hp: 172
@@ -20,7 +20,7 @@ languages: Common, Draconic
 modified: 20181223151326817
 saving_throws: Dex +5, Con +10, Wis +6, Cha +8
 senses: Blindsight 60 ft., Darkvision 120 ft., PP 21
-size: Huge 
+size: Huge
 skills: History +7, Perception +11, Persuasion +8, Stealth +5
 speed: 40 ft., burrow 30 ft., fly 80 ft.
 str: 23
@@ -28,4 +28,3 @@ title: Adult Brass Dragon
 type: Creature
 wis: 13
 xp: 10000
-
