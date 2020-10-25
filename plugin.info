@@ -5,6 +5,7 @@
   "plugin-type": "plugin",
   "version": "1.0.0",
   "tags": "[[D&D]]",
-  "summary": "D&D 5e SRD Creatures"
+  "summary": "D&D 5e SRD Creatures",
+  "source": "https://github.com/mklauber/tw-5eSRD-Monsters"
 
 }
