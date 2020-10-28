@@ -1,4 +1,3 @@
- 
 ac: 15
 ac_description: natural armor
 alignment: unaligned
@@ -8,7 +7,7 @@ challenge_rating: 3
 con: 15
 condition_immunities: 
 created: 20181223151326827
-creature_type: beasts
+creature_type: beast
 damage_immunities: 
 damage_resistances: 
 dex: 13
@@ -17,10 +16,10 @@ hp: 52
 hp_generation: 7d10+14
 int: 1
 languages: ---
-modified: 20181223151326827
+modified: 20201027204658895
 saving_throws: 
 senses: Blindsight 60 ft., PP 9
-size: Large 
+size: Large
 skills: 
 speed: 40 ft.
 str: 15

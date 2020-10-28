@@ -1,4 +1,3 @@
- 
 ac: 13
 ac_description: 
 alignment: chaotic evil
@@ -8,7 +7,7 @@ challenge_rating: 1
 con: 10
 condition_immunities: poisoned
 created: 20181223151507331
-creature_type: fiend 
+creature_type: fiend
 damage_immunities: poison
 damage_resistances: cold, fire, lightning, bludgeoning, piercing and slashing from nonmagical weapons
 dex: 17
@@ -17,14 +16,14 @@ hp: 7
 hp_generation: 3d4
 int: 7
 languages: Abyssal, Common
-modified: 20181223151507331
+modified: 20201027122801311
 saving_throws: 
 senses: Darkvision 120 ft., PP 10
-size: Tiny 
+size: Tiny
 skills: Stealth +5
 speed: 40 ft.
 str: 5
-subtype: demon)(shapechanger
+subtype: demon shapechanger
 title: Quasit
 type: Creature
 wis: 10
