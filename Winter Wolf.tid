@@ -2,7 +2,7 @@
 ac: 13
 ac_description: natural armor
 alignment: neutral evil
-attacks: <i><b>Bite:</b> Melee Weapon Attack:</i> +6 to hit, reach 5 ft., one target. <i>Hit:</i> 11 (2d6+4) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.<br><br><i><b>Cold Breath (Recharge 5-6):</b></i> The wolf exhales a blast of freezing wind in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+attacks: //''Bite:'' Melee Weapon Attack:// +6 to hit, reach 5 ft., one target. //Hit:// 11 (2d6+4) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.<br><br>//''Cold Breath (Recharge 5-6):''// The wolf exhales a blast of freezing wind in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
 cha: 8
 challenge_rating: 3
 con: 14
@@ -12,7 +12,7 @@ creature_type: monstrosity
 damage_immunities: cold
 damage_resistances: 
 dex: 13
-features: <i><b>Keen Hearing and Smell:</b></i> The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.<br><br><i><b>Pack Tactics:</b></i> The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.<br><br><i><b>Snow Camouflage:</b></i> The wolf has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
+features: //''Keen Hearing and Smell:''// The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.<br><br>//''Pack Tactics:''// The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.<br><br>//''Snow Camouflage:''// The wolf has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
 hp: 75
 hp_generation: 10d10+20
 int: 7

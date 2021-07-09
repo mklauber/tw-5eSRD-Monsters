@@ -2,7 +2,7 @@
 ac: 12
 ac_description: 
 alignment: unaligned
-attacks: <i><b>Beaks:</b> Melee Weapon Attack:</i> +4 to hit, reach 5 ft., one target in the swarm's space. <i>Hit:</i> 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
+attacks: //''Beaks:'' Melee Weapon Attack:// +4 to hit, reach 5 ft., one target in the swarm's space. //Hit:// 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 cha: 6
 challenge_rating: 1/4
 con: 8
@@ -12,7 +12,7 @@ creature_type: swarm of Tiny beasts
 damage_immunities: 
 damage_resistances: bludgeoning, piercing, slashing
 dex: 14
-features: <i><b>Swarm:</b></i> The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain hit points or gain temporary hit points.
+features: //''Swarm:''// The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain hit points or gain temporary hit points.
 hp: 24
 hp_generation: 7d8-7
 int: 3

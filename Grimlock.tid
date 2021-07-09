@@ -2,7 +2,7 @@
 ac: 11
 ac_description: 
 alignment: neutral evil
-attacks: <i><b>Spiked Bone Club:</b> Melee Weapon Attack:</i> +5 to hit, reach 5 ft., one target. <i>Hit:</i> 5 (1d4+3) bludgeoning damage plus 2 (1d4) piercing damage.
+attacks: //''Spiked Bone Club:'' Melee Weapon Attack:// +5 to hit, reach 5 ft., one target. //Hit:// 5 (1d4+3) bludgeoning damage plus 2 (1d4) piercing damage.
 cha: 6
 challenge_rating: 1/4
 con: 12
@@ -12,7 +12,7 @@ creature_type: humanoid
 damage_immunities: 
 damage_resistances: 
 dex: 12
-features: <i><b>Blind Senses:</b></i> The grimlock can't use its blindsight while deafened and unable to smell.<br><br><i><b>Keen Hearing and Smell:</b></i> The grimlock has advantage on Wisdom (Perception) checks that rely on hearing or smell.<br><br><i><b>Stone Camouflage:</b></i> The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+features: //''Blind Senses:''// The grimlock can't use its blindsight while deafened and unable to smell.<br><br>//''Keen Hearing and Smell:''// The grimlock has advantage on Wisdom (Perception) checks that rely on hearing or smell.<br><br>//''Stone Camouflage:''// The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 hp: 11
 hp_generation: 2d8+2
 int: 9

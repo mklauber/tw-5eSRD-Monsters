@@ -2,7 +2,7 @@
 ac: 12
 ac_description: 
 alignment: neutral evil
-attacks: <i><b>Claws:</b> Melee Weapon Attack:</i> +4 to hit, reach 5 ft., one creature. <i>Hit:</i> 4 (1d4+2) slashing damage.<br><br><i><b>Blinding Breath (Recharge 6):</b></i> The mephit exhales a 15-foot cone of blinding dust. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+attacks: //''Claws:'' Melee Weapon Attack:// +4 to hit, reach 5 ft., one creature. //Hit:// 4 (1d4+2) slashing damage.<br><br>//''Blinding Breath (Recharge 6):''// The mephit exhales a 15-foot cone of blinding dust. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 cha: 10
 challenge_rating: 1/2
 con: 10
@@ -12,7 +12,7 @@ creature_type: elemental
 damage_immunities: poison
 damage_resistances: 
 dex: 14
-features: <i><b>Damage Vulnerabilities:</b></i> fire<br><br><i><b>Death Burst:</b></i> When the mephit dies, it explodes in a burst of dust. Each creature within 5 feet of it must then succeed on a DC 10 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.<br><br><i><b>Innate Spellcasting (1/Day):</b></i> The mephit can innately cast <i>[[Sleep]]</i>, requiring no material components. Its innate spellcasting ability is Charisma.
+features: //''Damage Vulnerabilities:''// fire<br><br>//''Death Burst:''// When the mephit dies, it explodes in a burst of dust. Each creature within 5 feet of it must then succeed on a DC 10 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.<br><br>//''Innate Spellcasting (1/Day):''// The mephit can innately cast //[[Sleep]]//, requiring no material components. Its innate spellcasting ability is Charisma.
 hp: 17
 hp_generation: 5d6
 int: 9

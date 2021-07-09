@@ -2,7 +2,7 @@
 ac: 13
 ac_description: 
 alignment: lawful good
-attacks: <i><b>Bite:</b> Melee Weapon Attack:</i> +3 to hit, reach 5 ft., one target. <i>Hit:</i> 4 (1d6+1) piercing damage.<br><br><i><b>Teleport (Recharge 4-6):</b></i> The dog magically teleports, along with any equipment it is wearing or carrying, up to 40 feet to an unoccupied space it can see. Before or after teleporting, the dog can make one bite attack.
+attacks: //''Bite:'' Melee Weapon Attack:// +3 to hit, reach 5 ft., one target. //Hit:// 4 (1d6+1) piercing damage.<br><br>//''Teleport (Recharge 4-6):''// The dog magically teleports, along with any equipment it is wearing or carrying, up to 40 feet to an unoccupied space it can see. Before or after teleporting, the dog can make one bite attack.
 cha: 11
 challenge_rating: 1/4
 con: 12
@@ -12,7 +12,7 @@ creature_type: fey
 damage_immunities: 
 damage_resistances: 
 dex: 17
-features: <i><b>Keen Hearing and Smell:</b></i> The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+features: //''Keen Hearing and Smell:''// The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 hp: 22
 hp_generation: 4d8+4
 int: 10

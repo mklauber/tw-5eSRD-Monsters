@@ -2,7 +2,7 @@
 ac: 18
 ac_description: plate
 alignment: lawful evil
-attacks: <i><b>Multiattack:</b></i> The giant makes two greatsword attacks.<br><br><i><b>Greatsword:</b> Melee Weapon Attack:</i> +12 to hit, reach 10 ft., one target. <i>Hit:</i> 28 (6d6+7) slashing damage.<br><br><i><b>Rock:</b> Ranged Weapon Attack:</i> +11 to hit, range 60/240 ft., one target. <i>Hit:</i> 29 (4d10+7) bludgeoning damage.
+attacks: //''Multiattack:''// The giant makes two greatsword attacks.<br><br>//''Greatsword:'' Melee Weapon Attack:// +12 to hit, reach 10 ft., one target. //Hit:// 28 (6d6+7) slashing damage.<br><br>//''Rock:'' Ranged Weapon Attack:// +11 to hit, range 60/240 ft., one target. //Hit:// 29 (4d10+7) bludgeoning damage.
 cha: 13
 challenge_rating: 9
 con: 23

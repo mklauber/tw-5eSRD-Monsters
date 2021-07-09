@@ -2,7 +2,7 @@
 ac: 14
 ac_description: 
 alignment: unaligned
-attacks: <i><b>Bite:</b> Melee Weapon Attack:</i> +6 to hit, reach 5 ft., one target. <i>Hit:</i> 1 piercing damage plus 7 (3d4) poison damage.
+attacks: //''Bite:'' Melee Weapon Attack:// +6 to hit, reach 5 ft., one target. //Hit:// 1 piercing damage plus 7 (3d4) poison damage.
 cha: 5
 challenge_rating: 1/8
 con: 11
@@ -12,7 +12,7 @@ creature_type: beast
 damage_immunities: 
 damage_resistances: 
 dex: 18
-features: <i><b>Flyby:</b></i> The snake doesn't provoke opportunity attacks when it flies out of an enemy's reach.
+features: //''Flyby:''// The snake doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 hp: 5
 hp_generation: 2d4
 int: 2

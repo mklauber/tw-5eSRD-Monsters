@@ -2,7 +2,7 @@
 ac: 15
 ac_description: leather armor, shield
 alignment: neutral evil
-attacks: <i><b>Scimitar:</b> Melee Weapon Attack:</i> +4 to hit, reach 5 ft., one target. <i>Hit:</i> 5 (1d6+2) slashing damage.<br><br><i><b>Shortbow:</b> Ranged Weapon Attack:</i> +4 to hit, range 80/320 ft., one target. <i>Hit:</i> 5 (1d6+2) piercing damage.
+attacks: //''Scimitar:'' Melee Weapon Attack:// +4 to hit, reach 5 ft., one target. //Hit:// 5 (1d6+2) slashing damage.<br><br>//''Shortbow:'' Ranged Weapon Attack:// +4 to hit, range 80/320 ft., one target. //Hit:// 5 (1d6+2) piercing damage.
 cha: 8
 challenge_rating: 1/4
 con: 10
@@ -12,7 +12,7 @@ creature_type: humanoid
 damage_immunities: 
 damage_resistances: 
 dex: 14
-features: <i><b>Nimble Escape:</b></i> The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
+features: //''Nimble Escape:''// The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
 hp: 7
 hp_generation: 2d6
 int: 10

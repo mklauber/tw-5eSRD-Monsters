@@ -2,7 +2,7 @@
 ac: 13
 ac_description: 
 alignment: unaligned
-attacks: <i><b>Bite:</b> Melee Weapon Attack:</i> +5 to hit, reach 5 ft., one target. <i>Hit:</i> 1 piercing damage.
+attacks: //''Bite:'' Melee Weapon Attack:// +5 to hit, reach 5 ft., one target. //Hit:// 1 piercing damage.
 cha: 3
 challenge_rating: 0
 con: 8
@@ -12,7 +12,7 @@ creature_type: beast
 damage_immunities: 
 damage_resistances: 
 dex: 16
-features: <i><b>Keen Hearing and Smell:</b></i> The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
+features: //''Keen Hearing and Smell:''// The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 hp: 1
 hp_generation: 1d4-1
 int: 2

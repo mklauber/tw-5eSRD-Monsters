@@ -2,7 +2,7 @@
 ac: 12
 ac_description: natural armor
 alignment: unaligned
-attacks: <i><b>Bite:</b> Melee Weapon Attack:</i> +6 to hit, reach 5 ft., one target. <i>Hit:</i> 13 (2d8+4) piercing damage.
+attacks: //''Bite:'' Melee Weapon Attack:// +6 to hit, reach 5 ft., one target. //Hit:// 13 (2d8+4) piercing damage.
 cha: 4
 challenge_rating: 2
 con: 15
@@ -12,7 +12,7 @@ creature_type: beast
 damage_immunities: 
 damage_resistances: 
 dex: 13
-features: <i><b>Blood Frenzy:</b></i> The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.<br><br><i><b>Water Breathing:</b></i> The shark can breathe only underwater.
+features: //''Blood Frenzy:''// The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.<br><br>//''Water Breathing:''// The shark can breathe only underwater.
 hp: 45
 hp_generation: 6d10+12
 int: 1

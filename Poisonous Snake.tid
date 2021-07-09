@@ -2,7 +2,7 @@
 ac: 13
 ac_description: 
 alignment: unaligned
-attacks: <i><b>Bite:</b> Melee Weapon Attack:</i> +5 to hit, reach 5 ft., one target. <i>Hit:</i> 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.
+attacks: //''Bite:'' Melee Weapon Attack:// +5 to hit, reach 5 ft., one target. //Hit:// 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.
 cha: 3
 challenge_rating: 1/8
 con: 11

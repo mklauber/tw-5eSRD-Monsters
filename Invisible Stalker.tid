@@ -2,7 +2,7 @@
 ac: 14
 ac_description: 
 alignment: neutral
-attacks: <i><b>Multiattack:</b></i> The stalker makes two slam attacks.<br><br><i><b>Slam:</b> Melee Weapon Attack:</i> +6 to hit, reach 5 ft., one target. <i>Hit:</i> 10 (2d6+3) bludgeoning damage.
+attacks: //''Multiattack:''// The stalker makes two slam attacks.<br><br>//''Slam:'' Melee Weapon Attack:// +6 to hit, reach 5 ft., one target. //Hit:// 10 (2d6+3) bludgeoning damage.
 cha: 11
 challenge_rating: 6
 con: 14
@@ -12,7 +12,7 @@ creature_type: elemental
 damage_immunities: poison
 damage_resistances: bludgeoning, piercing, and slashing from nonmagical weapons
 dex: 19
-features: <i><b>Invisibility:</b></i> The stalker is invisible.<br><br><i><b>Faultless Tracker:</b></i> The stalker is given a quarry by its summoner. The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The stalker also knows the location of its summoner.
+features: //''Invisibility:''// The stalker is invisible.<br><br>//''Faultless Tracker:''// The stalker is given a quarry by its summoner. The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The stalker also knows the location of its summoner.
 hp: 104
 hp_generation: 16d8+32
 int: 10

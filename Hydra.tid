@@ -2,7 +2,7 @@
 ac: 15
 ac_description: natural armor
 alignment: unaligned
-attacks: <i><b>Multiattack:</b></i> The hydra makes as many bite attacks as it has heads.<br><br><i><b>Bite:</b> Melee Weapon Attack:</i> +8 to hit, reach 10 ft., one target. <i>Hit:</i> 10 (1d10+5) piercing damage.
+attacks: //''Multiattack:''// The hydra makes as many bite attacks as it has heads.<br><br>//''Bite:'' Melee Weapon Attack:// +8 to hit, reach 10 ft., one target. //Hit:// 10 (1d10+5) piercing damage.
 cha: 7
 challenge_rating: 8
 con: 20
@@ -12,7 +12,7 @@ creature_type: monstrosity
 damage_immunities: 
 damage_resistances: 
 dex: 12
-features: <i><b>Hold Breath:</b></i> The hydra can hold its breath for 1 hour.<br><br><i><b>Multiple Heads:</b></i> The hydra has five heads. While it has more than one head, the hydra has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.<br>Whenever the hydra takes 25 or more damage in a single turn, one of its heads dies. If all its heads die, the hydra dies.<br>At the end of its turn, it grows two heads for each of its heads that died since its last turn, unless it has taken fire damage since its last turn. The hydra regains 10 hit points for each head regrown in this way.<br><br><i><b>Reactive Heads:</b></i> For each head the hydra has beyond one, it gets an extra reaction that can be used only for opportunity attacks.<br><br><i><b>Wakeful:</b></i> While the hydra sleeps, at least one of its heads is awake.
+features: //''Hold Breath:''// The hydra can hold its breath for 1 hour.<br><br>//''Multiple Heads:''// The hydra has five heads. While it has more than one head, the hydra has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.<br>Whenever the hydra takes 25 or more damage in a single turn, one of its heads dies. If all its heads die, the hydra dies.<br>At the end of its turn, it grows two heads for each of its heads that died since its last turn, unless it has taken fire damage since its last turn. The hydra regains 10 hit points for each head regrown in this way.<br><br>//''Reactive Heads:''// For each head the hydra has beyond one, it gets an extra reaction that can be used only for opportunity attacks.<br><br>//''Wakeful:''// While the hydra sleeps, at least one of its heads is awake.
 hp: 172
 hp_generation: 15d12+75
 int: 2

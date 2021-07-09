@@ -2,7 +2,7 @@
 ac: 10
 ac_description: 
 alignment: unaligned
-attacks: <i><b>Hooves:</b> Melee Weapon Attack:</i> +4 to hit, reach 5 ft., one target. <i>Hit:</i> 7 (2d4+2) bludgeoning damage.
+attacks: //''Hooves:'' Melee Weapon Attack:// +4 to hit, reach 5 ft., one target. //Hit:// 7 (2d4+2) bludgeoning damage.
 cha: 7
 challenge_rating: 1/8
 con: 13

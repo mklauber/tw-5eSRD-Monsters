@@ -2,7 +2,7 @@
 ac: 15
 ac_description: natural armor
 alignment: chaotic evil
-attacks: <i><b>Multiattack:</b></i> The gargoyle makes two attacks: one with its bite and one with its claws.<br><br><i><b>Bite:</b> Melee Weapon Attack:</i> +4 to hit, reach 5 ft., one target. <i>Hit:</i> 5 (1d6+2) piercing damage.<br><br><i><b>Claws:</b> Melee Weapon Attack:</i> +4 to hit, reach 5 ft., one target. <i>Hit:</i> 5 (1d6+2) slashing damage.
+attacks: //''Multiattack:''// The gargoyle makes two attacks: one with its bite and one with its claws.<br><br>//''Bite:'' Melee Weapon Attack:// +4 to hit, reach 5 ft., one target. //Hit:// 5 (1d6+2) piercing damage.<br><br>//''Claws:'' Melee Weapon Attack:// +4 to hit, reach 5 ft., one target. //Hit:// 5 (1d6+2) slashing damage.
 cha: 7
 challenge_rating: 2
 con: 16
@@ -12,7 +12,7 @@ creature_type: elemental
 damage_immunities: poison
 damage_resistances: bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine
 dex: 11
-features: <i><b>False Appearance:</b></i> While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.
+features: //''False Appearance:''// While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.
 hp: 52
 hp_generation: 7d8+21
 int: 6

@@ -2,7 +2,7 @@
 ac: 14
 ac_description: natural armor
 alignment: unaligned
-attacks: <i><b>Multiattack:</b></i> The crocodile makes two attacks: one with its bite and one with its tail.<br><br><i><b>Bite:</b> Melee Weapon Attack:</i> +8 to hit, reach 5 ft., one target. <i>Hit:</i> 21 (3d10+5) piercing damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.<br><br><i><b>Tail:</b> Melee Weapon Attack:</i> +8 to hit, reach 10 ft., one target not grappled by the crocodile. <i>Hit:</i> 14 (2d8+5) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.
+attacks: //''Multiattack:''// The crocodile makes two attacks: one with its bite and one with its tail.<br><br>//''Bite:'' Melee Weapon Attack:// +8 to hit, reach 5 ft., one target. //Hit:// 21 (3d10+5) piercing damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.<br><br>//''Tail:'' Melee Weapon Attack:// +8 to hit, reach 10 ft., one target not grappled by the crocodile. //Hit:// 14 (2d8+5) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.
 cha: 7
 challenge_rating: 5
 con: 17
@@ -12,7 +12,7 @@ creature_type: beast
 damage_immunities: 
 damage_resistances: 
 dex: 9
-features: :</b>Hold Breath:</b></i> The crocodile can hold its breath for 30 minutes.
+features: :''Hold Breath:''// The crocodile can hold its breath for 30 minutes.
 hp: 85
 hp_generation: 9d12+27
 int: 2

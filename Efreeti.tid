@@ -2,7 +2,7 @@
 ac: 17
 ac_description: natural armor
 alignment: lawful evil
-attacks: <i><b>Multiattack:</b></i> The efreeti makes two scimitar attacks or uses its Hurl Flame twice.<br><br><i><b>Scimitar:</b> Melee Weapon Attack:</i> +10 to hit, reach 5 ft., one target. <i>Hit:</i> 13 (2d6+6) slashing damage plus 7 (2d6) fire damage.<br><br><i><b>Hurl Flame:</b> Ranged Spell Attack:</i> +7 to hit, range 120 ft., one target. <i>Hit:</i> 17 (5d6) fire damage.
+attacks: //''Multiattack:''// The efreeti makes two scimitar attacks or uses its Hurl Flame twice.<br><br>//''Scimitar:'' Melee Weapon Attack:// +10 to hit, reach 5 ft., one target. //Hit:// 13 (2d6+6) slashing damage plus 7 (2d6) fire damage.<br><br>//''Hurl Flame:'' Ranged Spell Attack:// +7 to hit, range 120 ft., one target. //Hit:// 17 (5d6) fire damage.
 cha: 16
 challenge_rating: 11
 con: 24
@@ -12,7 +12,7 @@ creature_type: elemental
 damage_immunities: Fire
 damage_resistances: 
 dex: 12
-features: <i><b>Elemental Demise:</b></i> If the efreeti dies, its body disintegrates in a flash of fire and puff of smoke, leaving behind only equipment the efreeti was wearing or carrying.<br><br><i><b>Innate Spellcasting:</b></i> The efreeti's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components:<br><br>At will: <i>[[Detect Magic]]</i><br>3/day: <i>[[Enlarge/Reduce]], [[Tongues]]</i><br>1/day each: <i>[[Conjure Elemental]] (fire elemental only), [[Gaseous Form]], [[Invisibility]], [[Major Image]], [[Plane Shift]], [[Wall of Fire]]</i>
+features: //''Elemental Demise:''// If the efreeti dies, its body disintegrates in a flash of fire and puff of smoke, leaving behind only equipment the efreeti was wearing or carrying.<br><br>//''Innate Spellcasting:''// The efreeti's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components:<br><br>At will: //[[Detect Magic]]//<br>3/day: //[[Enlarge/Reduce]], [[Tongues]]//<br>1/day each: //[[Conjure Elemental]] (fire elemental only), [[Gaseous Form]], [[Invisibility]], [[Major Image]], [[Plane Shift]], [[Wall of Fire]]//
 hp: 200
 hp_generation: 16d10+112
 int: 16

@@ -2,7 +2,7 @@
 ac: 18
 ac_description: natural armor
 alignment: lawful good
-attacks: <i><b>Bite:</b> Melee Weapon Attack:</i> +8 to hit, reach 10 ft., one target. <i>Hit:</i> 8 (1d8+4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.<br><br><i><b>Spit Poison:</b> Ranged Weapon Attack:</i> +8 to hit, range 15/30 ft., one creature. <i>Hit:</i> The target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
+attacks: //''Bite:'' Melee Weapon Attack:// +8 to hit, reach 10 ft., one target. //Hit:// 8 (1d8+4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.<br><br>//''Spit Poison:'' Ranged Weapon Attack:// +8 to hit, range 15/30 ft., one creature. //Hit:// The target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
 cha: 18
 challenge_rating: 10
 con: 16
@@ -12,7 +12,7 @@ creature_type: monstrosity
 damage_immunities: poison
 damage_resistances: 
 dex: 18
-features: <i><b>Rejuvenation:</b></i> If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.<br><br><i><b>Spellcasting:</b></i> The naga is a 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:<br><br>Cantrips (at will): <i>[[Mending]], [[Sacred Flame]], [[Thaumaturgy]]</i><br>1st level (4 slots): <i>[[Command]], [[Cure Wounds]], [[Shield of Faith]]</i><br>2nd level (3 slots): <i>[[Calm Emotions]], [[Hold Person]]</i><br>3th level (2 slots): <i>[[Bestow Curse]], [[Clairvoyance]]</i><br>4th level (2 slots): <i>[[Banishment]], [[Freedom of Movement]]</i><br>5th level (2 slots): <i>[[Flame Strike]], [[Geas]]</i><br>6th level (2 slots): <i>[[True Seeing]]</i>
+features: //''Rejuvenation:''// If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.<br><br>//''Spellcasting:''// The naga is a 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:<br><br>Cantrips (at will): //[[Mending]], [[Sacred Flame]], [[Thaumaturgy]]//<br>1st level (4 slots): //[[Command]], [[Cure Wounds]], [[Shield of Faith]]//<br>2nd level (3 slots): //[[Calm Emotions]], [[Hold Person]]//<br>3th level (2 slots): //[[Bestow Curse]], [[Clairvoyance]]//<br>4th level (2 slots): //[[Banishment]], [[Freedom of Movement]]//<br>5th level (2 slots): //[[Flame Strike]], [[Geas]]//<br>6th level (2 slots): //[[True Seeing]]//
 hp: 127
 hp_generation: 15d10+45
 int: 16

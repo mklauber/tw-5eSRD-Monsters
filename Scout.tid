@@ -2,7 +2,7 @@
 ac: 13
 ac_description: leather armor
 alignment: any alignment
-attacks: <i><b>Multiattack:</b></i> The scout makes two melee attacks or two ranged attacks.<br><br><i><b>Shortsword:</b> Melee Weapon Attack:</i> +4 to hit, reach 5 ft., one target. <i>Hit:</i> 5 (1d6+2) piercing damage.<br><br><i><b>Longbow:</b> Ranged Weapon Attack:</i> +4 to hit, ranged 150/600 ft., one target. <i>Hit:</i> 6 (1d8+2) piercing damage.
+attacks: //''Multiattack:''// The scout makes two melee attacks or two ranged attacks.<br><br>//''Shortsword:'' Melee Weapon Attack:// +4 to hit, reach 5 ft., one target. //Hit:// 5 (1d6+2) piercing damage.<br><br>//''Longbow:'' Ranged Weapon Attack:// +4 to hit, ranged 150/600 ft., one target. //Hit:// 6 (1d8+2) piercing damage.
 cha: 11
 challenge_rating: 1/2
 con: 12
@@ -12,7 +12,7 @@ creature_type: humanoid
 damage_immunities: 
 damage_resistances: 
 dex: 14
-features: <i><b>Keen Hearing and Sight:</b></i> The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.
+features: //''Keen Hearing and Sight:''// The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 hp: 16
 hp_generation: 3d8+3
 int: 11

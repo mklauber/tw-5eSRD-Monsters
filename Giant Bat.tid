@@ -2,7 +2,7 @@
 ac: 13
 ac_description: 
 alignment: unaligned
-attacks: <i><b>Bite:</b> Melee Weapon Attack:</i> +4 to hit, reach 5 ft., one creature. <i>Hit:</i> 5 (1d6+2) piercing damage.
+attacks: //''Bite:'' Melee Weapon Attack:// +4 to hit, reach 5 ft., one creature. //Hit:// 5 (1d6+2) piercing damage.
 cha: 6
 challenge_rating: 1/4
 con: 11
@@ -12,7 +12,7 @@ creature_type: beast
 damage_immunities: 
 damage_resistances: 
 dex: 16
-features: <i><b>Echolocation:</b></i> The bat can't use its blindsight while deafened.<br><br><i><b>Keen Hearing:</b></i> The bat has advantage on Wisdom (Perception) checks that rely on hearing.
+features: //''Echolocation:''// The bat can't use its blindsight while deafened.<br><br>//''Keen Hearing:''// The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 hp: 22
 hp_generation: 4d10
 int: 2

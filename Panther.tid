@@ -2,7 +2,7 @@
 ac: 12
 ac_description: 
 alignment: unaligned
-attacks: <i><b>Bite:</b> Melee Weapon Attack:</i> +4 to hit, reach 5 ft., one target. <i>Hit:</i> 5 (1d6+2) piercing damage.<br><br><i><b>Claw:</b> Melee Weapon Attack:</i> +4 to hit, reach 5 ft., one target. <i>Hit:</i> 4 (1d4+2) slashing damage.
+attacks: //''Bite:'' Melee Weapon Attack:// +4 to hit, reach 5 ft., one target. //Hit:// 5 (1d6+2) piercing damage.<br><br>//''Claw:'' Melee Weapon Attack:// +4 to hit, reach 5 ft., one target. //Hit:// 4 (1d4+2) slashing damage.
 cha: 7
 challenge_rating: 1/4
 con: 10
@@ -12,7 +12,7 @@ creature_type: beast
 damage_immunities: 
 damage_resistances: 
 dex: 15
-features: <i><b>Keen Smell:</b></i> The panther has advantage on Wisdom (Perception) checks that rely on smell.<br><br><i><b>Pounce:</b></i> If the panther moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the panther can make one bite attack against it as a bonus action.
+features: //''Keen Smell:''// The panther has advantage on Wisdom (Perception) checks that rely on smell.<br><br>//''Pounce:''// If the panther moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the panther can make one bite attack against it as a bonus action.
 hp: 13
 hp_generation: 3d8
 int: 3

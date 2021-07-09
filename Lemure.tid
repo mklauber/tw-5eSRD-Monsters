@@ -2,7 +2,7 @@
 ac: 7
 ac_description: 
 alignment: lawful evil
-attacks: <i><b>Fist:</b> Melee Weapon Attack:</i> +3 to hit, reach 5 ft., one target. <i>Hit:</i> 2 (1d4) bludgeoning damage.
+attacks: //''Fist:'' Melee Weapon Attack:// +3 to hit, reach 5 ft., one target. //Hit:// 2 (1d4) bludgeoning damage.
 cha: 3
 challenge_rating: 0
 con: 11
@@ -12,7 +12,7 @@ creature_type: fiend
 damage_immunities: fire, poison
 damage_resistances: cold
 dex: 5
-features: <i><b>Devil's Sight:</b></i> Magical darkness doesn't impede the lemure's darkvision.<br><br><i><b>Hellish Rejuvenation:</b></i> A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good·aligned creature with a bless spell cast on that creature or its remains are sprinkled with holy water.
+features: //''Devil's Sight:''// Magical darkness doesn't impede the lemure's darkvision.<br><br>//''Hellish Rejuvenation:''// A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good·aligned creature with a bless spell cast on that creature or its remains are sprinkled with holy water.
 hp: 13
 hp_generation: 3d8
 int: 1

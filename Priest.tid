@@ -2,7 +2,7 @@
 ac: 13
 ac_description: chain shirt
 alignment: any alignment
-attacks: <i><b>Mace:</b> Melee Weapon Attack:</i> +2 to hit, reach 5 ft., one target. <i>Hit:</i> 3 (1d6) bludgeoning damage.
+attacks: //''Mace:'' Melee Weapon Attack:// +2 to hit, reach 5 ft., one target. //Hit:// 3 (1d6) bludgeoning damage.
 cha: 13
 challenge_rating: 2
 con: 12
@@ -12,7 +12,7 @@ creature_type: humanoid
 damage_immunities: 
 damage_resistances: 
 dex: 10
-features: <i><b>Divine Eminence:</b></i> As a bonus action, the priest can expend a spell slot to cause its melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the priest expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.<br><br><i><b>Spellcasting:</b></i> The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The priest has the following cleric spells prepared:<br><br>Cantrips (at will): <i>[[Light]], [[Sacred Flame]], [[Thaumaturgy]]</i><br>1st level (4 slots): <i>[[Cure Wounds]], [[Guiding Bolt]], [[Sanctuary]]</i><br>2nd level (3 slots): <i>[[Lesser Restoration]], [[Spiritual Weapon]]</i><br>3rd level (2 slots): <i>[[Dispel Magic]], [[Spirit Guardians]]</i>
+features: //''Divine Eminence:''// As a bonus action, the priest can expend a spell slot to cause its melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the priest expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.<br><br>//''Spellcasting:''// The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The priest has the following cleric spells prepared:<br><br>Cantrips (at will): //[[Light]], [[Sacred Flame]], [[Thaumaturgy]]//<br>1st level (4 slots): //[[Cure Wounds]], [[Guiding Bolt]], [[Sanctuary]]//<br>2nd level (3 slots): //[[Lesser Restoration]], [[Spiritual Weapon]]//<br>3rd level (2 slots): //[[Dispel Magic]], [[Spirit Guardians]]//
 hp: 27
 hp_generation: 5d8+5
 int: 13

@@ -2,7 +2,7 @@
 ac: 17
 ac_description: splint
 alignment: any alignment
-attacks: <i><b>Multiattack:</b></i> The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.<br><br><i><b>Longsword:</b> Melee Weapon Attack:</i> +5 to hit, reach 5 ft., one target. <i>Hit:</i> 7 (1d8+3) slashing damage, or 8 (1d10+3) slashing damage if used with two hands.<br><br><i><b>Shortsword:</b> Melee Weapon Attack:</i> +5 to hit, reach 5 ft., one target. <i>Hit:</i> 6 (1d6+3) piercing damage.<br><br><i><b>Heavy Crossbow:</b> Ranged Weapon Attack:</i> +3 to hit, range 100/400 ft., one target. <i>Hit:</i> 6 (1d10+1) piercing damage.
+attacks: //''Multiattack:''// The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.<br><br>//''Longsword:'' Melee Weapon Attack:// +5 to hit, reach 5 ft., one target. //Hit:// 7 (1d8+3) slashing damage, or 8 (1d10+3) slashing damage if used with two hands.<br><br>//''Shortsword:'' Melee Weapon Attack:// +5 to hit, reach 5 ft., one target. //Hit:// 6 (1d6+3) piercing damage.<br><br>//''Heavy Crossbow:'' Ranged Weapon Attack:// +3 to hit, range 100/400 ft., one target. //Hit:// 6 (1d10+1) piercing damage.
 cha: 10
 challenge_rating: 3
 con: 14

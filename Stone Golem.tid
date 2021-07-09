@@ -2,7 +2,7 @@
 ac: 17
 ac_description: natural armor
 alignment: unaligned
-attacks: <i><b>Multiattack:</b></i> The golem makes two slam attacks.<br><br><i><b>Slam:</b> Melee Weapon Attack:</i> +10 to hit, reach 5 ft., one target. <i>Hit:</i> 19 (3d8+6) bludgeoning damage.<br><br><i><b>Slow (Recharge 6:</b></i>The golem exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.The golem targets one or more creatures it can see within 10 feet of it. Each target must make a DC 17 Wisdom saving throw against this magic. On a failed save, a target can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+attacks: //''Multiattack:''// The golem makes two slam attacks.<br><br>//''Slam:'' Melee Weapon Attack:// +10 to hit, reach 5 ft., one target. //Hit:// 19 (3d8+6) bludgeoning damage.<br><br>//''Slow (Recharge 6:''//The golem exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.The golem targets one or more creatures it can see within 10 feet of it. Each target must make a DC 17 Wisdom saving throw against this magic. On a failed save, a target can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 cha: 1
 challenge_rating: 10
 con: 20
@@ -12,7 +12,7 @@ creature_type: construct
 damage_immunities: poison, psychic, bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't adamantine
 damage_resistances: 
 dex: 9
-features: <i><b>Immutable Form:</b></i> The golem is immune to any spell or effect that would alter its form.<br><br><i><b>Magic Resistance:</b></i> The golem has advantage on saving throws against spells and other magical effects.<br><br><i><b>Magic Weapons:</b></i> The golem's weapon attacks are magical.
+features: //''Immutable Form:''// The golem is immune to any spell or effect that would alter its form.<br><br>//''Magic Resistance:''// The golem has advantage on saving throws against spells and other magical effects.<br><br>//''Magic Weapons:''// The golem's weapon attacks are magical.
 hp: 178
 hp_generation: 17d10+85
 int: 3

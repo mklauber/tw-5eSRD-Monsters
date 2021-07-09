@@ -2,7 +2,7 @@
 ac: 10
 ac_description: 
 alignment: unaligned
-attacks: <i><b>Bites:</b> Melee Weapon Attack:</i> +2 to hit, reach 0 ft., one target in the swarm's space. <i>Hit:</i> 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
+attacks: //''Bites:'' Melee Weapon Attack:// +2 to hit, reach 0 ft., one target in the swarm's space. //Hit:// 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 cha: 3
 challenge_rating: 1/4
 con: 9
@@ -12,7 +12,7 @@ creature_type: swarm of Tiny beasts
 damage_immunities: 
 damage_resistances: bludgeoning, piercing, slashing
 dex: 11
-features: <i><b>Keen Smell:</b></i> The swarm has advantage on Wisdom (Perception) checks that rely on smell.<br><br><i><b>Swarm:</b></i> The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.
+features: //''Keen Smell:''// The swarm has advantage on Wisdom (Perception) checks that rely on smell.<br><br>//''Swarm:''// The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.
 hp: 24
 hp_generation: 7d8-7
 int: 2

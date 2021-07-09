@@ -2,7 +2,7 @@
 ac: 12
 ac_description: 
 alignment: unaligned
-attacks: <i><b>Multiattack:</b></i> The ape makes two fist attacks.<br><br><i><b>Fist:</b> Melee Weapon Attack:</i> +5 to hit, reach 5 ft., one target. <i>Hit:</i> 6 (1d6+3) bludgeoning damage.<br><br><i><b>Rock:</b> Ranged Weapon Attack:</i> +5 to hit, range 25/50 ft., one target. <i>Hit:</i> 6 (1d6+3) bludgeoning damage.
+attacks: //''Multiattack:''// The ape makes two fist attacks.<br><br>//''Fist:'' Melee Weapon Attack:// +5 to hit, reach 5 ft., one target. //Hit:// 6 (1d6+3) bludgeoning damage.<br><br>//''Rock:'' Ranged Weapon Attack:// +5 to hit, range 25/50 ft., one target. //Hit:// 6 (1d6+3) bludgeoning damage.
 cha: 7
 challenge_rating: 1/2
 con: 14

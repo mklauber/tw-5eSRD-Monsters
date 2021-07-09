@@ -2,7 +2,7 @@
 ac: 13
 ac_description: natural armor
 alignment: unaligned
-attacks: <i><b>Gorg:</b> Melee Weapon Attack:</i> +9 to hit, reach 5 ft., one target. <i>Hit:</i> 24 (4d8+6) piercing damage.<br><br><i><b>Stomp:</b> Melee Weapon Attack:</i> +9 to hit, reach 5 ft., one prone creature. <i>Hit:</i> 22 (3d10+6) bludgeoning damage.
+attacks: //''Gorg:'' Melee Weapon Attack:// +9 to hit, reach 5 ft., one target. //Hit:// 24 (4d8+6) piercing damage.<br><br>//''Stomp:'' Melee Weapon Attack:// +9 to hit, reach 5 ft., one prone creature. //Hit:// 22 (3d10+6) bludgeoning damage.
 cha: 5
 challenge_rating: 5
 con: 17
@@ -12,7 +12,7 @@ creature_type: beast
 damage_immunities: 
 damage_resistances: 
 dex: 9
-features: <i><b>Trampling Charge:</b></i> If the triceratops moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the triceratops can make one stomp attack against it as a bonus action.
+features: //''Trampling Charge:''// If the triceratops moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the triceratops can make one stomp attack against it as a bonus action.
 hp: 95
 hp_generation: 10d12+30
 int: 2

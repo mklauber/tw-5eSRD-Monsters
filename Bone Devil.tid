@@ -2,7 +2,7 @@
 ac: 19
 ac_description: natural armor
 alignment: lawful evil
-attacks: <i><b>Multiattack:</b></i> The devil makes three attacks: two with its claws and one with its sting.<br><br><i><b>Claw:</b> Melee Weapon Attack:</i> +8 to hit, reach 10 ft., one target. <i>Hit:</i> 8 (1d8+4) slashing damage.<br><br><i><b>Sting:</b> Melee Weapon Attack:</i> +8 to hit, reach 10 ft., one target. <i>Hit:</i> 13 (2d8+4) piercing damage plus 17 (5d6) poison damage, and the target must succeed on a DC 14 Constitution saving throw or become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+attacks: //''Multiattack:''// The devil makes three attacks: two with its claws and one with its sting.<br><br>//''Claw:'' Melee Weapon Attack:// +8 to hit, reach 10 ft., one target. //Hit:// 8 (1d8+4) slashing damage.<br><br>//''Sting:'' Melee Weapon Attack:// +8 to hit, reach 10 ft., one target. //Hit:// 13 (2d8+4) piercing damage plus 17 (5d6) poison damage, and the target must succeed on a DC 14 Constitution saving throw or become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 cha: 16
 challenge_rating: 9
 con: 18
@@ -12,7 +12,7 @@ creature_type: fiend
 damage_immunities: fire, poison
 damage_resistances: cold, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered
 dex: 16
-features: <i><b>Devil's Sight:</b></i> Magical darkness doesn't impede the devil's darkvision.<br><br><i><b>Magic Resistance:</b></i> The devil has advantage on saving throws against spells and other magical effects.
+features: //''Devil's Sight:''// Magical darkness doesn't impede the devil's darkvision.<br><br>//''Magic Resistance:''// The devil has advantage on saving throws against spells and other magical effects.
 hp: 142
 hp_generation: 15d10+60
 int: 13

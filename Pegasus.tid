@@ -2,7 +2,7 @@
 ac: 12
 ac_description: 
 alignment: chaotic good
-attacks: <i><b>Hooves:</b> Melee Weapon Attack:</i> +6 to hit, reach 5 ft., one target. <i>Hit:</i> 11 (2d6+4) bludgeoning damage.
+attacks: //''Hooves:'' Melee Weapon Attack:// +6 to hit, reach 5 ft., one target. //Hit:// 11 (2d6+4) bludgeoning damage.
 cha: 13
 challenge_rating: 2
 con: 16

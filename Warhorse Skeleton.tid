@@ -2,7 +2,7 @@
 ac: 13
 ac_description: barding scraps
 alignment: lawful evil
-attacks: <i><b>Hooves:</b> Melee Weapon Attack:</i> +6 to hit, reach 5 ft., one target. <i>Hit:</i> 11 (2d6+4) bludgeoning damage.
+attacks: //''Hooves:'' Melee Weapon Attack:// +6 to hit, reach 5 ft., one target. //Hit:// 11 (2d6+4) bludgeoning damage.
 cha: 5
 challenge_rating: 1/2
 con: 15
@@ -12,7 +12,7 @@ creature_type: undead
 damage_immunities: poison
 damage_resistances: 
 dex: 12
-features: <i><b>Damage Vulnerabilities:</b></i> bludgeoning
+features: //''Damage Vulnerabilities:''// bludgeoning
 hp: 22
 hp_generation: 3d10+6
 int: 2

@@ -2,7 +2,7 @@
 ac: 13
 ac_description: natural armor
 alignment: neutral evil
-attacks: <i><b>Hooves:</b> Melee Weapon Attack:</i> +6 to hit, reach 5 ft., one target. <i>Hit:</i> 13 (2d8+4) bludgeoning damage plus 7 (2d6) fire damage.<br><br><i><b>Ethereal Stride:</b></i> The nightmare and up to three willing creatures within 5 feet of it magically enter the Ethereal Plane from the Material Plane, or vice versa.
+attacks: //''Hooves:'' Melee Weapon Attack:// +6 to hit, reach 5 ft., one target. //Hit:// 13 (2d8+4) bludgeoning damage plus 7 (2d6) fire damage.<br><br>//''Ethereal Stride:''// The nightmare and up to three willing creatures within 5 feet of it magically enter the Ethereal Plane from the Material Plane, or vice versa.
 cha: 15
 challenge_rating: 3
 con: 16
@@ -12,7 +12,7 @@ creature_type: fiend
 damage_immunities: fire
 damage_resistances: 
 dex: 15
-features: <i><b>Confer Fire Resistance:</b></i> The nightmare can grant resistance to fire damage to anyone riding it.<br><br><i><b>Illumination:</b></i> The nightmare sheds bright light in a 10-foot radius and dim light for an additional10 feet.
+features: //''Confer Fire Resistance:''// The nightmare can grant resistance to fire damage to anyone riding it.<br><br>//''Illumination:''// The nightmare sheds bright light in a 10-foot radius and dim light for an additional10 feet.
 hp: 68
 hp_generation: 8d10+24
 int: 10

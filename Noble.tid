@@ -2,7 +2,7 @@
 ac: 15
 ac_description: breastplate
 alignment: any alignment
-attacks: <i><b>Rapier:</b> Melee Weapon Attack:</i> +3 to hit, reach 5 ft., one target. <i>Hit:</i> 5 (1d8+1) piercing damage.<br><br><h1>Reactions</h1><p><i><b>Parry:</b></i> The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.</p>
+attacks: //''Rapier:'' Melee Weapon Attack:// +3 to hit, reach 5 ft., one target. //Hit:// 5 (1d8+1) piercing damage.<br><br><h1>Reactions</h1><p>//''Parry:''// The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.</p>
 cha: 16
 challenge_rating: 1/8
 con: 11

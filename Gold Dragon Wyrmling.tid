@@ -2,7 +2,7 @@
 ac: 17
 ac_description: natural armor
 alignment: lawful good
-attacks: <i><b>Bite:</b> Melee Weapon Attack:</i> +6 to hit, reach 5 ft., one target. <i>Hit:</i> 9 (1d10+4) piercing damage.<br><br><i><b>Breath Weapon (Recharge 5-6):</b></i> The dragon uses one of the following breath weapons:<br><br><i><b>Fire Breath:</b></i> The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.<br><i><b>Weakening Breath:</b></i> The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+attacks: //''Bite:'' Melee Weapon Attack:// +6 to hit, reach 5 ft., one target. //Hit:// 9 (1d10+4) piercing damage.<br><br>//''Breath Weapon (Recharge 5-6):''// The dragon uses one of the following breath weapons:<br><br>//''Fire Breath:''// The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.<br>//''Weakening Breath:''// The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 cha: 16
 challenge_rating: 3
 con: 17
@@ -12,7 +12,7 @@ creature_type: dragon
 damage_immunities: fire
 damage_resistances: 
 dex: 14
-features: <i><b>Amphibious:</b></i> The dragon can breathe air and water.
+features: //''Amphibious:''// The dragon can breathe air and water.
 hp: 60
 hp_generation: 8d8+24
 int: 14

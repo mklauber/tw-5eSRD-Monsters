@@ -2,7 +2,7 @@
 ac: 11
 ac_description: 
 alignment: unaligned
-attacks: <i><b>Hooves:</b> Melee Weapon Attack:</i> +6 to hit, reach 5 ft., one target. <i>Hit:</i> 11 (2d6+4) bludgeoning damage.
+attacks: //''Hooves:'' Melee Weapon Attack:// +6 to hit, reach 5 ft., one target. //Hit:// 11 (2d6+4) bludgeoning damage.
 cha: 7
 challenge_rating: 1/2
 con: 13
@@ -12,7 +12,7 @@ creature_type: beast
 damage_immunities: 
 damage_resistances: 
 dex: 12
-features: <i><b>Trampling Charge:</b></i> If the horse moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the horse can make another attack with its hooves against it as a bonus action.
+features: //''Trampling Charge:''// If the horse moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the horse can make another attack with its hooves against it as a bonus action.
 hp: 19
 hp_generation: 3d10+3
 int: 2

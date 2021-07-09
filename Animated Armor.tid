@@ -2,7 +2,7 @@
 ac: 18
 ac_description: natural armor
 alignment: unaligned
-attacks: <i><b>Multiattack:</b></i> The armor makes two melee attacks.<br><br><i><b>Slam:</b> Melee Weapon Attack:</i> +4 to hit, reach 5 ft., one target. <i>Hit:</i> 5 (1d6+2) bludgeoning damage.
+attacks: //''Multiattack:''// The armor makes two melee attacks.<br><br>//''Slam:'' Melee Weapon Attack:// +4 to hit, reach 5 ft., one target. //Hit:// 5 (1d6+2) bludgeoning damage.
 cha: 1
 challenge_rating: 1
 con: 13
@@ -12,7 +12,7 @@ creature_type: construct
 damage_immunities: poison, psychic
 damage_resistances: 
 dex: 11
-features: <i><b>Antimagic Susceptibility:</b></i> The armor is incapacitated while in the area of an <i>antimagic field</i>. If targeted by <i>dispel magic</i>, the armor must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.<br><br><i><b>False Appearance:</b></i> While the armor remains motionless, it is indistinguishable from a normal suit of armor.
+features: //''Antimagic Susceptibility:''// The armor is incapacitated while in the area of an //antimagic field//. If targeted by //dispel magic//, the armor must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.<br><br>//''False Appearance:''// While the armor remains motionless, it is indistinguishable from a normal suit of armor.
 hp: 33
 hp_generation: 6d8+6
 int: 1

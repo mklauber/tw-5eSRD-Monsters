@@ -2,7 +2,7 @@
 ac: 14
 ac_description: natural armor
 alignment: neutral
-attacks: <i><b>Multiattack:</b></i> The grick makes one attack with its tentacles. If that attack hits, the grick can make one beak attack against the same target.<br><br><i><b>Tentacles:</b> Melee Weapon Attack:</i> +4 to hit, reach 5 ft., one target. <i>Hit:</i> 9 (2d6+2) slashing damage.<br><br><i><b>Beak:</b> Melee Weapon Attack:</i> +4 to hit, reach 5 ft., one target. <i>Hit:</i> 5 (1d6+2) piercing damage.
+attacks: //''Multiattack:''// The grick makes one attack with its tentacles. If that attack hits, the grick can make one beak attack against the same target.<br><br>//''Tentacles:'' Melee Weapon Attack:// +4 to hit, reach 5 ft., one target. //Hit:// 9 (2d6+2) slashing damage.<br><br>//''Beak:'' Melee Weapon Attack:// +4 to hit, reach 5 ft., one target. //Hit:// 5 (1d6+2) piercing damage.
 cha: 5
 challenge_rating: 2
 con: 11
@@ -12,7 +12,7 @@ creature_type: monstrosity
 damage_immunities: 
 damage_resistances: bludgeoning, piercing, and slashing damage from nonmagical weapons
 dex: 14
-features: <i><b>Stone Camouflage.</b></i> The grick has advantage on its dexterity (Stealth) check when it attempts to hide in rocky terrain.
+features: //''Stone Camouflage.''// The grick has advantage on its dexterity (Stealth) check when it attempts to hide in rocky terrain.
 hp: 27
 hp_generation: 6d8
 int: 3

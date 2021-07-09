@@ -2,7 +2,7 @@
 ac: 13
 ac_description: natural armor
 alignment: unaligned
-attacks: <i><b>Ram:</b> Melee Weapon Attack:</i> +3 to hit, reach 5 ft., one target. <i>Hit:</i> 4 (1d6+1) bludgeoning damage.
+attacks: //''Ram:'' Melee Weapon Attack:// +3 to hit, reach 5 ft., one target. //Hit:// 4 (1d6+1) bludgeoning damage.
 cha: 5
 challenge_rating: 1/2
 con: 11
@@ -12,7 +12,7 @@ creature_type: beast
 damage_immunities: 
 damage_resistances: 
 dex: 15
-features: <i><b>Charge:</b></i> If the sea horse moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.<br><br><i><b>Water Breathing:</b></i> The sea horse can breathe only underwater.
+features: //''Charge:''// If the sea horse moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.<br><br>//''Water Breathing:''// The sea horse can breathe only underwater.
 hp: 16
 hp_generation: 3d10
 int: 2

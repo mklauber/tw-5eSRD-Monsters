@@ -2,7 +2,7 @@
 ac: 12
 ac_description: 
 alignment: unaligned
-attacks: <i><b>Beak:</b> Melee Weapon Attack:</i> +4 to hit, reach 5 ft., one target. <i>Hit:</i> 4 (1d4+2) piercing damage.
+attacks: //''Beak:'' Melee Weapon Attack:// +4 to hit, reach 5 ft., one target. //Hit:// 4 (1d4+2) piercing damage.
 cha: 5
 challenge_rating: 1/8
 con: 10
@@ -12,7 +12,7 @@ creature_type: beast
 damage_immunities: 
 damage_resistances: 
 dex: 14
-features: <i><b>Keen Sight:</b></i> The hawk has advantage on Wisdom (Perception) checks that rely on sight.<br><br><i><b>Pack Tactics:</b></i> The hawk has advantage on an attack roll against a creature if at least one of the hawk's allies is within 5 feet of the creature and the ally isn't incapacitated.
+features: //''Keen Sight:''// The hawk has advantage on Wisdom (Perception) checks that rely on sight.<br><br>//''Pack Tactics:''// The hawk has advantage on an attack roll against a creature if at least one of the hawk's allies is within 5 feet of the creature and the ally isn't incapacitated.
 hp: 7
 hp_generation: 2d6
 int: 3

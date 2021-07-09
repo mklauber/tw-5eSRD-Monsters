@@ -2,7 +2,7 @@
 ac: 13
 ac_description: armor scraps
 alignment: lawful evil
-attacks: <i><b>Shortsword:</b> Melee Weapon Attack:</i> +4 to hit, reach 5 ft., one target. <i>Hit:</i> 5 (1d6+2) piercing damage.<br><br><i><b>Shortbow:</b> Ranged Weapon Attack:</i> +4 to hit, range 80/320 ft., one target. <i>Hit:</i> 5 (1d6+2) piercing damage.
+attacks: //''Shortsword:'' Melee Weapon Attack:// +4 to hit, reach 5 ft., one target. //Hit:// 5 (1d6+2) piercing damage.<br><br>//''Shortbow:'' Ranged Weapon Attack:// +4 to hit, range 80/320 ft., one target. //Hit:// 5 (1d6+2) piercing damage.
 cha: 5
 challenge_rating: 1/4
 con: 15
@@ -12,7 +12,7 @@ creature_type: undead
 damage_immunities: poison
 damage_resistances: 
 dex: 14
-features: <i><b>Damage Vulnerabilities:</b></i> bludgeoning
+features: //''Damage Vulnerabilities:''// bludgeoning
 hp: 13
 hp_generation: 2d8+4
 int: 6

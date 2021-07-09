@@ -2,7 +2,7 @@
 ac: 17
 ac_description: natural armor
 alignment: neutral
-attacks: <i><b>Multiattack:</b></i> The giant makes two greatclub attacks.<br><br><i><b>Greatclub:</b> Melee Weapon Attack:</i> +9 to hit, reach 15 ft., one target. <i>Hit:</i> 19 (3d8+6) bludgeoning damage.<br><br><i><b>Rock:</b> Ranged Weapon Attack:</i> +9 to hit, range 60/240 ft., one target. <i>Hit:</i> 28 (4d10+6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.<br><br><h1>Reactions</h1><p><i><b>Rock Catching:</b></i> If a rock or similar object is hurled at the giant, the giant can, with a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning damage from it.</p>
+attacks: //''Multiattack:''// The giant makes two greatclub attacks.<br><br>//''Greatclub:'' Melee Weapon Attack:// +9 to hit, reach 15 ft., one target. //Hit:// 19 (3d8+6) bludgeoning damage.<br><br>//''Rock:'' Ranged Weapon Attack:// +9 to hit, range 60/240 ft., one target. //Hit:// 28 (4d10+6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.<br><br><h1>Reactions</h1><p>//''Rock Catching:''// If a rock or similar object is hurled at the giant, the giant can, with a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning damage from it.</p>
 cha: 9
 challenge_rating: 7
 con: 20
@@ -12,7 +12,7 @@ creature_type: giant
 damage_immunities: 
 damage_resistances: 
 dex: 15
-features: <i><b>Stone Camouflage:</b></i> The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
+features: //''Stone Camouflage:''// The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 hp: 126
 hp_generation: 11d12+55
 int: 10

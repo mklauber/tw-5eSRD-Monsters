@@ -2,7 +2,7 @@
 ac: 10
 ac_description: 11 (natural in bear & hybrid)
 alignment: neutral good
-attacks: <i><b>Multiattack:</b></i> In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid.<br><br><i><b>Bite (Bear or Hybrid Form Only):</b> Melee Weapon Attack:</i> +7 to hit, reach 5 ft., one target. <i>Hit:</i> 15 (2d10+4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with were bear lycanthropy.<br><br><i><b>Claw (Bear or Hybrid Form Only):</b> Melee Weapon Attack:</i> +7 to hit, reach 5 ft., one target. <i>Hit:</i> 13 (2d8+4) slashing damage.<br><br><i><b>Greataxe (Humanoid or Hybrid Form Only):</b> Melee Weapon Attack:</i> +7 to hit, reach 5 ft., one target. <i>Hit:</i> 10 (1d12+4) slashing damage.
+attacks: //''Multiattack:''// In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid.<br><br>//''Bite (Bear or Hybrid Form Only):'' Melee Weapon Attack:// +7 to hit, reach 5 ft., one target. //Hit:// 15 (2d10+4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with were bear lycanthropy.<br><br>//''Claw (Bear or Hybrid Form Only):'' Melee Weapon Attack:// +7 to hit, reach 5 ft., one target. //Hit:// 13 (2d8+4) slashing damage.<br><br>//''Greataxe (Humanoid or Hybrid Form Only):'' Melee Weapon Attack:// +7 to hit, reach 5 ft., one target. //Hit:// 10 (1d12+4) slashing damage.
 cha: 12
 challenge_rating: 5
 con: 17
@@ -12,7 +12,7 @@ creature_type: humanoid
 damage_immunities: bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered
 damage_resistances: 
 dex: 10
-features: <i><b>Shapechanger:</b></i> The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.<br><br><i><b>Keen Smell:</b></i> The werebear has advantage on Wisdom (Perception) checks that rely on smell.
+features: //''Shapechanger:''// The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.<br><br>//''Keen Smell:''// The werebear has advantage on Wisdom (Perception) checks that rely on smell.
 hp: 135
 hp_generation: 18d8+54
 int: 11

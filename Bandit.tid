@@ -2,7 +2,7 @@
 ac: 12
 ac_description: leather armor
 alignment: any non-lawful alignment
-attacks: <i><b>Scimitar:</b> Melee Weapon Attack:</i> +3 to hit, reach 5 ft., one target. <i>Hit:</i> 4 (1d6+1) slashing damage.<br><br><i><b>Light Crossbow:</b> Ranged Weapon Attack:</i> +3 to hit, range 80 ft./320 ft., one target. <i>Hit:</i> 5 (1d8+1) piercing damage.
+attacks: //''Scimitar:'' Melee Weapon Attack:// +3 to hit, reach 5 ft., one target. //Hit:// 4 (1d6+1) slashing damage.<br><br>//''Light Crossbow:'' Ranged Weapon Attack:// +3 to hit, range 80 ft./320 ft., one target. //Hit:// 5 (1d8+1) piercing damage.
 cha: 10
 challenge_rating: 1/8
 con: 12

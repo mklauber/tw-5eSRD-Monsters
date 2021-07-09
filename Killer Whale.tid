@@ -2,7 +2,7 @@
 ac: 12
 ac_description: natural armor
 alignment: unaligned
-attacks: <i><b>Bite:</b> Melee Weapon Attack:</i> +6 to hit, reach 5 ft., one target. <i>Hit:</i> 21 (5d6+4) piercing damage.
+attacks: //''Bite:'' Melee Weapon Attack:// +6 to hit, reach 5 ft., one target. //Hit:// 21 (5d6+4) piercing damage.
 cha: 7
 challenge_rating: 3
 con: 13
@@ -12,7 +12,7 @@ creature_type: beast
 damage_immunities: 
 damage_resistances: 
 dex: 10
-features: <i><b>Echolocation:</b></i> The whale can't use its blindsight while deafened.<br><br><i><b>Hold Breath:</b></i> The whale can hold its breath for 30 minutes.<br><br><i><b>Keen Hearing:</b></i> The whale has advantage on Wisdom (Perception) checks that rely on hearing.
+features: //''Echolocation:''// The whale can't use its blindsight while deafened.<br><br>//''Hold Breath:''// The whale can hold its breath for 30 minutes.<br><br>//''Keen Hearing:''// The whale has advantage on Wisdom (Perception) checks that rely on hearing.
 hp: 90
 hp_generation: 12d12+12
 int: 3

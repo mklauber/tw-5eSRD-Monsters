@@ -2,7 +2,7 @@
 ac: 11
 ac_description: natural armor
 alignment: unaligned
-attacks: <i><b>Claw:</b> Melee Weapon Attack:</i> +0 to hit, reach 5 ft., one target. <i>Hit:</i> 1 bludgeoning damage.
+attacks: //''Claw:'' Melee Weapon Attack:// +0 to hit, reach 5 ft., one target. //Hit:// 1 bludgeoning damage.
 cha: 2
 challenge_rating: 0
 con: 10
@@ -12,7 +12,7 @@ creature_type: beast
 damage_immunities: 
 damage_resistances: 
 dex: 11
-features: <i><b>Amphibious:</b></i> The crab can breathe air and water.
+features: //''Amphibious:''// The crab can breathe air and water.
 hp: 2
 hp_generation: 1d4
 int: 1

@@ -2,7 +2,7 @@
 ac: 9
 ac_description: 
 alignment: unaligned
-attacks: <i><b>Bite:</b> Melee Weapon Attack:</i> +5 to hit, reach 5 ft., one target. <i>Hit:</i> 2 (1d4) bludgeoning damage.
+attacks: //''Bite:'' Melee Weapon Attack:// +5 to hit, reach 5 ft., one target. //Hit:// 2 (1d4) bludgeoning damage.
 cha: 5
 challenge_rating: 1/8
 con: 14

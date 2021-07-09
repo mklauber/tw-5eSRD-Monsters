@@ -2,7 +2,7 @@
 ac: 13
 ac_description: natural armor
 alignment: neutral
-attacks: <i><b>Bite:</b> Melee Weapon Attack:</i> +4 to hit, reach 5 ft. , one creature. <i>Hit:</i> 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and unconscious while poisoned in this way.
+attacks: //''Bite:'' Melee Weapon Attack:// +4 to hit, reach 5 ft. , one creature. //Hit:// 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and unconscious while poisoned in this way.
 cha: 7
 challenge_rating: 0
 con: 11
@@ -12,7 +12,7 @@ creature_type: construct
 damage_immunities: poison
 damage_resistances: 
 dex: 15
-features: <i><b>Telepathic Bond:</b></i> While the homunculus is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically.
+features: //''Telepathic Bond:''// While the homunculus is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically.
 hp: 5
 hp_generation: 2d4
 int: 10

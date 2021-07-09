@@ -2,7 +2,7 @@
 ac: 12
 ac_description: natural armor
 alignment: chaotic evil
-attacks: <i><b>Multiattack:</b></i> The ettin makes two attacks: one with its battleaxe and one with its morningstar.<br><br><i><b>Battleaxe:</b> Melee Weapon Attack:</i> +7 to hit, reach 5 ft., one target. <i>Hit:</i> 14 (2d8+5) slashing damage.<br><br><i><b>Morningstar:</b> Melee Weapon Attack:</i> +7 to hit, reach 5 ft., one target. <i>Hit:</i> 14 (2d8+5) piercing damage.
+attacks: //''Multiattack:''// The ettin makes two attacks: one with its battleaxe and one with its morningstar.<br><br>//''Battleaxe:'' Melee Weapon Attack:// +7 to hit, reach 5 ft., one target. //Hit:// 14 (2d8+5) slashing damage.<br><br>//''Morningstar:'' Melee Weapon Attack:// +7 to hit, reach 5 ft., one target. //Hit:// 14 (2d8+5) piercing damage.
 cha: 8
 challenge_rating: 4
 con: 17
@@ -12,7 +12,7 @@ creature_type: giant
 damage_immunities: 
 damage_resistances: 
 dex: 8
-features: <i><b>Two Heads:</b></i> The ettin has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.<br><br><i><b>Wakeful:</b></i> When one of the ettin's heads is asleep, its other head is awake.
+features: //''Two Heads:''// The ettin has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.<br><br>//''Wakeful:''// When one of the ettin's heads is asleep, its other head is awake.
 hp: 85
 hp_generation: 10d10+30
 int: 6

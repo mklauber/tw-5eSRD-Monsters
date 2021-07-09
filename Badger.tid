@@ -2,7 +2,7 @@
 ac: 10
 ac_description: 
 alignment: unaligned
-attacks: <i><b>Bite:</b> Melee Weapon Attack:</i> +2 to hit, reach 5 ft., one target. <i>Hit:</i> 1 piercing damage.
+attacks: //''Bite:'' Melee Weapon Attack:// +2 to hit, reach 5 ft., one target. //Hit:// 1 piercing damage.
 cha: 5
 challenge_rating: 0
 con: 12
@@ -12,7 +12,7 @@ creature_type: beast
 damage_immunities: 
 damage_resistances: 
 dex: 11
-features: <i><b>Keen Smell:</b></i> The badger has advantage on Wisdom (Perception) checks that rely on smell.
+features: //''Keen Smell:''// The badger has advantage on Wisdom (Perception) checks that rely on smell.
 hp: 3
 hp_generation: 1d4-1
 int: 2

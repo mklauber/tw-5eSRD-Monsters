@@ -2,7 +2,7 @@
 ac: 12
 ac_description: hide armor
 alignment: any alignment
-attacks: <i><b>Spear:</b> Melee or Ranged Weapon Attack:</i> +3 to hit, reach 5 ft. or range 20/60 ft., one target. <i>Hit:</i> 4 (1d6+1) piercing damage, or 5 (1d8+1) piercing damage if used with two hands to make a melee attack.
+attacks: //''Spear:'' Melee or Ranged Weapon Attack:// +3 to hit, reach 5 ft. or range 20/60 ft., one target. //Hit:// 4 (1d6+1) piercing damage, or 5 (1d8+1) piercing damage if used with two hands to make a melee attack.
 cha: 8
 challenge_rating: 1/8
 con: 12
@@ -12,7 +12,7 @@ creature_type: humanoid
 damage_immunities: 
 damage_resistances: 
 dex: 11
-features: <i><b>Pack Tactics:</b></i> The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't incapacitated.
+features: //''Pack Tactics:''// The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't incapacitated.
 hp: 11
 hp_generation: 2d8+2
 int: 8

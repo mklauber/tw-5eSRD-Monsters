@@ -2,7 +2,7 @@
 ac: 14
 ac_description: natural armor
 alignment: lawful evil
-attacks: <i><b>Multiattack:</b></i> The manticore makes three attacks: one with its bite and two with its claws or three with its tail spikes.<br><br><i><b>Bite:</b> Melee Weapon Attack:</i> +5 to hit, reach 5 ft., one target. <i>Hit:</i> 7 (1d8+3) piercing damage.<br><br><i><b>Claw:</b> Melee Weapon Attack:</i> +5 to hit, reach 5 ft., one target. <i>Hit:</i> 6 (1d6+3) slashing damage.<br><br><i><b>Tail Spike:</b> Ranged Weapon Attack:</i> +5 to hit, range 100/200 ft., one target. <i>Hit:</i> 7 (1d8+3) piercing damage.
+attacks: //''Multiattack:''// The manticore makes three attacks: one with its bite and two with its claws or three with its tail spikes.<br><br>//''Bite:'' Melee Weapon Attack:// +5 to hit, reach 5 ft., one target. //Hit:// 7 (1d8+3) piercing damage.<br><br>//''Claw:'' Melee Weapon Attack:// +5 to hit, reach 5 ft., one target. //Hit:// 6 (1d6+3) slashing damage.<br><br>//''Tail Spike:'' Ranged Weapon Attack:// +5 to hit, range 100/200 ft., one target. //Hit:// 7 (1d8+3) piercing damage.
 cha: 8
 challenge_rating: 3
 con: 17
@@ -12,7 +12,7 @@ creature_type: monstrosity
 damage_immunities: 
 damage_resistances: 
 dex: 16
-features: <i><b>Tail Spike Regrowth:</b></i> The manticore has twenty-four tail spikes. Used spikes regrow when the manticore finishes a long rest.
+features: //''Tail Spike Regrowth:''// The manticore has twenty-four tail spikes. Used spikes regrow when the manticore finishes a long rest.
 hp: 68
 hp_generation: 8d10+24
 int: 7

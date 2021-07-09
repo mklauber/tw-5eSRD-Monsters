@@ -2,7 +2,7 @@
 ac: 13
 ac_description: hide armor
 alignment: chaotic evil
-attacks: <i><b>Greataxe:</b> Melee Weapon Attack:</i> +5 to hit, reach 5 ft., one target. <i>Hit:</i> 9 (1d12+3) slashing damage.<br><br><i><b>Javelin:</b> Melee or Ranged Weapon Attack:</i> +5 to hit, reach 5 ft. or range 30/120 ft., one target. <i>Hit:</i> 6 (1d6+3) piercing damage.
+attacks: //''Greataxe:'' Melee Weapon Attack:// +5 to hit, reach 5 ft., one target. //Hit:// 9 (1d12+3) slashing damage.<br><br>//''Javelin:'' Melee or Ranged Weapon Attack:// +5 to hit, reach 5 ft. or range 30/120 ft., one target. //Hit:// 6 (1d6+3) piercing damage.
 cha: 10
 challenge_rating: 1/2
 con: 16
@@ -12,7 +12,7 @@ creature_type: humanoid
 damage_immunities: 
 damage_resistances: 
 dex: 12
-features: <i><b>Aggressive:</b></i> As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
+features: //''Aggressive:''// As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
 hp: 15
 hp_generation: 2d8+6
 int: 7

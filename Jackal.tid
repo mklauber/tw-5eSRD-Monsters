@@ -2,7 +2,7 @@
 ac: 12
 ac_description: 
 alignment: unaligned
-attacks: <i><b>Bite:</b> Melee Weapon Attack:</i> +1 to hit, reach 5 ft., one target. <i>Hit:</i> 1 (1d4 - 1) piercing damage.
+attacks: //''Bite:'' Melee Weapon Attack:// +1 to hit, reach 5 ft., one target. //Hit:// 1 (1d4 - 1) piercing damage.
 cha: 6
 challenge_rating: 0
 con: 11
@@ -12,7 +12,7 @@ creature_type: beast
 damage_immunities: 
 damage_resistances: 
 dex: 15
-features: <i><b>Keen Hearing and Smell:</b></i> The jackal has advantage on Wisdom (Perception) checks that rely on hearing or smell.<br><br><i><b>Pack Tactics:</b></i> The jackal has advantage on an attack roll against a creature if at least one of the jackal's allies is within 5 feet of the creature and the ally isn't incapacitated.
+features: //''Keen Hearing and Smell:''// The jackal has advantage on Wisdom (Perception) checks that rely on hearing or smell.<br><br>//''Pack Tactics:''// The jackal has advantage on an attack roll against a creature if at least one of the jackal's allies is within 5 feet of the creature and the ally isn't incapacitated.
 hp: 3
 hp_generation: 1d6
 int: 3

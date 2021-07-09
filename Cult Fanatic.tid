@@ -2,7 +2,7 @@
 ac: 13
 ac_description: leather armor
 alignment: any non-good alignment
-attacks: <i><b>Multiattack:</b></i>The fanatic makes two melee attacks.<br><br><i><b>Dagger:</b> Melee or Ranged Weapon Attack:</i> +4 to hit, reach 5 ft. or range 20/60 ft., one creature. <i>Hit:</i> 4 (1d4+2) piercing damage.
+attacks: //''Multiattack:''//The fanatic makes two melee attacks.<br><br>//''Dagger:'' Melee or Ranged Weapon Attack:// +4 to hit, reach 5 ft. or range 20/60 ft., one creature. //Hit:// 4 (1d4+2) piercing damage.
 cha: 14
 challenge_rating: 2
 con: 12
@@ -12,7 +12,7 @@ creature_type: humanoid
 damage_immunities: 
 damage_resistances: 
 dex: 14
-features: <i><b>Dark Devotion:</b></i> The cultist has advantage on saving throws against being charmed or frightened.<br><br><i><b>Spellcasting:</b></i> The fanatic is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The fanatic has the following cleric spells prepared:<br><br>Cantrips (at will): <i>[[Light]], [[Sacred Flame]], [[Thaumaturgy]]</i><br>1st level (4 slots): <i>[[Command]], [[Inflict Wounds]], [[Shield of Faith]]</i><br>2nd level (3 slots): <i>[[Hold Person]], [[Spiritual Weapon]]</i>
+features: //''Dark Devotion:''// The cultist has advantage on saving throws against being charmed or frightened.<br><br>//''Spellcasting:''// The fanatic is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The fanatic has the following cleric spells prepared:<br><br>Cantrips (at will): //[[Light]], [[Sacred Flame]], [[Thaumaturgy]]//<br>1st level (4 slots): //[[Command]], [[Inflict Wounds]], [[Shield of Faith]]//<br>2nd level (3 slots): //[[Hold Person]], [[Spiritual Weapon]]//
 hp: 33
 hp_generation: 6d8+6
 int: 10

@@ -2,7 +2,7 @@
 ac: 11
 ac_description: 
 alignment: neutral
-attacks: <i><b>Spear:</b> Melee or Ranged Weapon Attack:</i> +2 to hit, reach 5 ft. or range 20/60 ft., one target. <i>Hit:</i> 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.
+attacks: //''Spear:'' Melee or Ranged Weapon Attack:// +2 to hit, reach 5 ft. or range 20/60 ft., one target. //Hit:// 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.
 cha: 12
 challenge_rating: 1/8
 con: 12
@@ -12,7 +12,7 @@ creature_type: humanoid
 damage_immunities: 
 damage_resistances: 
 dex: 13
-features: <i><b>Amphibious:</b></i> The merfolk can breathe air and water.
+features: //''Amphibious:''// The merfolk can breathe air and water.
 hp: 11
 hp_generation: 2d8+2
 int: 11

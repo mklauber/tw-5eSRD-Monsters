@@ -2,7 +2,7 @@
 ac: 11
 ac_description: natural armor
 alignment: unaligned
-attacks: <i><b>Multiattack:</b></i> The bear makes two attacks: one with its bite and one with its claws.<br><br><i><b>Bite:</b> Melee Weapon Attack:</i> +5 to hit, reach 5 ft., one target. <i>Hit:</i> 8 (1d8+4) piercing damage.<br><br><i><b>Claws:</b> Melee Weapon Attack:</i> +5 to hit, reach 5 ft., one target. <i>Hit:</i> 11 (2d6+4) slashing damage.
+attacks: //''Multiattack:''// The bear makes two attacks: one with its bite and one with its claws.<br><br>//''Bite:'' Melee Weapon Attack:// +5 to hit, reach 5 ft., one target. //Hit:// 8 (1d8+4) piercing damage.<br><br>//''Claws:'' Melee Weapon Attack:// +5 to hit, reach 5 ft., one target. //Hit:// 11 (2d6+4) slashing damage.
 cha: 7
 challenge_rating: 1
 con: 16
@@ -12,7 +12,7 @@ creature_type: beast
 damage_immunities: 
 damage_resistances: 
 dex: 10
-features: <i><b>Keen Smell:</b></i> The bear has advantage on Wisdom (Perception) checks that rely on smell.
+features: //''Keen Smell:''// The bear has advantage on Wisdom (Perception) checks that rely on smell.
 hp: 34
 hp_generation: 4d10+12
 int: 2

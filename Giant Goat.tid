@@ -2,7 +2,7 @@
 ac: 11
 ac_description: natural armor
 alignment: unaligned
-attacks: <i><b>Ram:</b> Melee Weapon Attack:</i> +5 to hit, reach 5 ft., one target. <i>Hit:</i> 8 (2d4+3) bludgeoning damage.
+attacks: //''Ram:'' Melee Weapon Attack:// +5 to hit, reach 5 ft., one target. //Hit:// 8 (2d4+3) bludgeoning damage.
 cha: 6
 challenge_rating: 1/2
 con: 12
@@ -12,7 +12,7 @@ creature_type: beast
 damage_immunities: 
 damage_resistances: 
 dex: 11
-features: <i><b>Charge:</b></i> If the goat moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 5 (2d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.<br><br><i><b>Sure-Footed:</b></i> The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
+features: //''Charge:''// If the goat moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 5 (2d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.<br><br>//''Sure-Footed:''// The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 hp: 19
 hp_generation: 3d10+3
 int: 3

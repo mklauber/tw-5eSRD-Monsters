@@ -2,7 +2,7 @@
 ac: 13
 ac_description: natural armor
 alignment: chaotic evil
-attacks: <i><b>Multiattack:</b></i> The giant makes two greatclub attacks.<br><br><i><b>Greatclub:</b> Melee Weapon Attack:</i> +8 to hit, reach 10 ft., one target. <i>Hit:</i> 18 (3d8+5) bludgeoning damage.<br><br><i><b>Rock:</b> Ranged Weapon Attack:</i> +8 to hit, range 60/240 ft., one target. <i>Hit:</i> 21 (3d10+5) bludgeoning damage.
+attacks: //''Multiattack:''// The giant makes two greatclub attacks.<br><br>//''Greatclub:'' Melee Weapon Attack:// +8 to hit, reach 10 ft., one target. //Hit:// 18 (3d8+5) bludgeoning damage.<br><br>//''Rock:'' Ranged Weapon Attack:// +8 to hit, range 60/240 ft., one target. //Hit:// 21 (3d10+5) bludgeoning damage.
 cha: 6
 challenge_rating: 5
 con: 19

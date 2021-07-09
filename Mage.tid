@@ -2,7 +2,7 @@
 ac: 12
 ac_description: 15 w. mage armor
 alignment: any alignment
-attacks: <i><b>Dagger:</b> Melee or Ranged Weapon Attack:</i> +5 to hit, reach 5 ft. or range 20/60 ft., one target. <i>Hit:</i> 4 (1d4+2) piercing damage.
+attacks: //''Dagger:'' Melee or Ranged Weapon Attack:// +5 to hit, reach 5 ft. or range 20/60 ft., one target. //Hit:// 4 (1d4+2) piercing damage.
 cha: 11
 challenge_rating: 6
 con: 11
@@ -12,7 +12,7 @@ creature_type: humanoid
 damage_immunities: 
 damage_resistances: 
 dex: 14
-features: <i><b>Spellcasting:</b></i> The mage is an 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:<br><br>Cantrips (at will): <i>[[Fire Bolt]], [[Light]], [[Mage Hand]], [[Prestidigitation]]</i><br>1st level (4 slots): <i>[[Detect Magic]], [[Mage Armor]], [[Magic Missile]], [[Shield]]</i><br>2nd level (3 slots): <i>[[Misty Step]], [[Suggestion]]</i><br>3rd level (3 slots): <i>[[Counterspell]], [[Fireball]], [[Fly]]</i><br>4th level (3 slots): <i>[[Greater Invisibility]], [[Ice Storm]]</i><br>5th level (1 slots): <i>[[Cone of Cold]]</i>
+features: //''Spellcasting:''// The mage is an 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:<br><br>Cantrips (at will): //[[Fire Bolt]], [[Light]], [[Mage Hand]], [[Prestidigitation]]//<br>1st level (4 slots): //[[Detect Magic]], [[Mage Armor]], [[Magic Missile]], [[Shield]]//<br>2nd level (3 slots): //[[Misty Step]], [[Suggestion]]//<br>3rd level (3 slots): //[[Counterspell]], [[Fireball]], [[Fly]]//<br>4th level (3 slots): //[[Greater Invisibility]], [[Ice Storm]]//<br>5th level (1 slots): //[[Cone of Cold]]//
 hp: 40
 hp_generation: 9d8
 int: 17

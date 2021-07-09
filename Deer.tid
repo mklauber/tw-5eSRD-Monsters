@@ -2,7 +2,7 @@
 ac: 13
 ac_description: 
 alignment: unaligned
-attacks: <i><b>Bite:</b> Melee Weapon Attack:</i> +2 to hit, reach 5 ft., one target. <i>Hit:</i> 2 (1d4) piercing damage.
+attacks: //''Bite:'' Melee Weapon Attack:// +2 to hit, reach 5 ft., one target. //Hit:// 2 (1d4) piercing damage.
 cha: 5
 challenge_rating: 0
 con: 11

@@ -2,7 +2,7 @@
 ac: 13
 ac_description: natural armor
 alignment: unaligned
-attacks: <i><b>Bite:</b> Melee Weapon Attack:</i> +1 to hit, reach 5 ft., one target. <i>Hit:</i> 2 (1d6 - 1) slashing damage.
+attacks: //''Bite:'' Melee Weapon Attack:// +1 to hit, reach 5 ft., one target. //Hit:// 2 (1d6 - 1) slashing damage.
 cha: 3
 challenge_rating: 0
 con: 12
@@ -12,7 +12,7 @@ creature_type: beast
 damage_immunities: 
 damage_resistances: 
 dex: 10
-features: <i><b>Illumination:</b></i> The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
+features: //''Illumination:''// The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 hp: 4
 hp_generation: 1d6+1
 int: 1
